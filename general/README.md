@@ -1,8 +1,8 @@
 # General Graphics
 
 ## Luminosity and power vs energy (all by JennyListDESY according to references specified on the plots)
-- site power vs log(E)
-![Link to the pdf](figures/power_vs_logE_withLHCandCERN.pdf)
+- site power vs log(E) Links to the
+![.pdf](figures/power_vs_logE_withLHCandCERN.pdf) ![.eps](figures/power_vs_logE_withLHCandCERN.eps) ![.C](figures/power_vs_logE_withLHCandCERN.C)
 ![This is a test](figures/power_vs_logE_withLHCandCERN.png)
 - luminosity vs log(E)
 ![Link to the pdf](figures/lumi_vs_logE.pdf)
