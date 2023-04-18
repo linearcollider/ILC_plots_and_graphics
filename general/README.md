@@ -7,12 +7,25 @@
 - ILC with various beam dumps (source / credits? -> ILC Snowmass white paper?)
 <img src="figures/BeamDumpDistribution-2.png" width="200" />
 
-## Running scenarios
-- strawman 20-year scenario "H20" (by LCC Parameter Group)
-![.pdf](figures/) 
-![.eps](figures/) 
-![.C](figures/)
-<img src="figures/" width="200" />
+## Running scenario: Luminosity and Higgses
+- Luminosity vs time with number of Higgses per run for strawman 20-year scenario "H20" (by LCC Parameter Group)
+![.pdf](figures/lumi_nhiggsperrun_H20-staged.pdf) 
+![.eps](figures/lumi_nhiggsperrun_H20-staged.eps) 
+![.C](figures/lumi_nhiggsperrun_H20-staged.C)
+<img src="figures/lumi_nhiggsperrun_H20-staged.png" width="200" />
+
+- Luminosity vs time with accumulated number of Higgses for strawman 20-year scenario "H20" (by LCC Parameter Group)
+![.pdf](figures/lumi_nhiggstotal_H20-staged.pdf) 
+![.eps](figures/lumi_nhiggstotal_H20-staged.eps) 
+![.C](figures/lumi_nhiggstotal_H20-staged.C)
+<img src="figures/lumi_nhiggstotal_H20-staged.png" width="200" />
+
+- Number of Higgses vs time for strawman 20-year scenario "H20" (by LCC Parameter Group)
+![.pdf](figures/higgses_H20-staged.pdf) 
+![.eps](figures/higgses_H20-staged.eps) 
+![.C](figures/higgses_H20-staged.C)
+<img src="figures/higgses_H20-staged.png" width="200" />
+
 
 
 ## Luminosity and power vs energy 
