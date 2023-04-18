@@ -7,12 +7,12 @@
 - ILC with various beam dumps (source / credits? -> ILC Snowmass white paper?)
 <img src="figures/BeamDumpDistribution-2.png" width="200" />
 
-## running scenarios
-- strawman 20-year scenario "H20"
-![.pdf](figures/power_vs_logE_withLHCandCERN.pdf) 
-![.eps](figures/power_vs_logE_withLHCandCERN.eps) 
-![.C](figures/power_vs_logE_withLHCandCERN.C)
-<img src="figures/power_vs_logE_withLHCandCERN.png" width="200" />
+## Running scenarios
+- strawman 20-year scenario "H20" (by LCC Parameter Group)
+![.pdf](figures/) 
+![.eps](figures/) 
+![.C](figures/)
+<img src="figures/" width="200" />
 
 
 ## Luminosity and power vs energy 
