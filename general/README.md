@@ -2,10 +2,10 @@
 
 ## ILC layout
 - ILC with two detectors (source / credits? sharper version?)
-<img src="figures/power_vs_logE_withLHCandCERN.png" width="200" />
+<img src="figures/ILC_with_two_detectors.png" width="200" />
 
 - ILC with various beam dumps (source / credits? -> ILC Snowmass white paper?)
-<img src="figures/power_vs_logE_withLHCandCERN.png" width="200" />
+<img src="figures/BeamDumpDistribution-2.png" width="200" />
 
 
 ## Luminosity and power vs energy 
