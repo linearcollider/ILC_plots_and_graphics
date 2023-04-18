@@ -1,5 +1,13 @@
 # General Graphics
 
+## ILC layout
+- ILC with two detectors (source / credits? sharper version?)
+<img src="figures/power_vs_logE_withLHCandCERN.png" width="200" />
+
+- ILC with various beam dumps (source / credits? -> ILC Snowmass white paper?)
+<img src="figures/power_vs_logE_withLHCandCERN.png" width="200" />
+
+
 ## Luminosity and power vs energy 
 (all by JennyListDESY according to references specified on the plots)
 - site power vs log(E): Links to the
