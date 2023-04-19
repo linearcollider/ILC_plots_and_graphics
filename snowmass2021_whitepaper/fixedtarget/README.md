@@ -3,8 +3,8 @@
 
 
 - The reach of a beam-dump experiment at the ILC-250 for axion-like particles (left) and dark photons (right). Taken from Ref.~\cite{Asai:2021ehn}. See also \cite{Sakaki:2020mqb} for another study of the reach on axion-like particles.
-<img src="figures/ALPs_ILC" width="200" /> 
-<img src="figures/dark_ele" width="200" /> 
+<img src="figures/ALPs_ILC.pdf" width="200" /> 
+<img src="figures/dark_ele.pdf" width="200" /> 
 K. Asai, S. Iwamoto, Y. Sakaki and D. Ueda, New physics searches at the ILC positron and electron beam dumps, https://doi.org/10.1007/JHEP09(2021)183 JHEP   09 (2021) 183 [https://arxiv.org/abs/2105.13768  2105.13768].  
 
 
@@ -14,7 +14,7 @@ K. Asai, S. Iwamoto, Y. Sakaki and D. Ueda, New physics searches at the ILC posi
 
 
 - Sensitivity of the ILC version of the LUXE-NPOD experiment~\cite{Bai:2021dgm} searching for scalar and axion-like particles that couples to photons.  The sensitivity is expressed in terms of parameters $\Lambda_a$ and $\Lambda_\phi$ defined in eq. \leqn{LforALPs}.}
-<img src="figures/LUXILC" width="200" /> 
+<img src="figures/LUXILC.pdf" width="200" /> 
 Z. Bai et al., LUXE-NPOD: new physics searches with an optical dump at LUXE,  https://arxiv.org/abs/2107.13554  2107.13554.  
 
 
