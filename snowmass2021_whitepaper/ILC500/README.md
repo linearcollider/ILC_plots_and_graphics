@@ -52,29 +52,29 @@ J. Yoon and M.E. Peskin, Fermion Pair Production in SO(5) x U(1) Gauge-Higgs Uni
 
 
 -  Exclusion and discovery reaches for a $\XPM{1}$ (left), or a $\stone$ (right). In both cases, the horizontal axis is the mass of the charged SUSY particle and the vertical axis is the mass splitting between this state and the (neutral) lightest SUSY particle.}
-<img src="figures/exclusion_complete_higgsino.png" width="200" /> 
-<img src="figures/stau_exclusion_extrapolations.png" width="200" /> 
+<img src="figures/exclusion_complete_higgsino" width="200" /> 
+<img src="figures/stau_exclusion_extrapolations" width="200" /> 
 
 
 -  Observed or projected exclusion regions for a $\XPM{1}$ NLSP, for LEPII, LHC, HL-LHC.  The vertical lines indicate the model-independent reach of ILC-500 and ILC-1000. The symbols very close to the line $\MXN{1} = \MXC{1}$ indicate the location of the  Higgsino LSP models shown in Fig. \ref{fig:sleptC1N2}.} \label{fig:X1summary}
-<img src="figures/fig_08d_w_lep_w_lhc2019_lodm_w_bmark_w_hlproj_rad_nat_only_C1-012.png" width="200" /> 
+<img src="figures/fig_08d_w_lep_w_lhc2019_lodm_w_bmark_w_hlproj_rad_nat_only_C1-012" width="200" /> 
 
 
 - Top row: $\stau$, $\smu$ and $\sel$ spectra. Middle and bottom rows: Observables for three different Higgsino-LSP models. The middle row shows the case of $\XPM{1}$ production, the bottom one that of $\XN{2}$ production.  \label{fig:sleptC1N2}}
-<img src="figures/stau11-stc-epj-style_wmissch.png" width="200" /> 
-<img src="figures/smurr_tnphs_rl_006_selcuts_skim_whiz6_epj.png" width="200" /> 
-<img src="figures/serr_tnphs_rl_006_selcuts_skim_whiz6_epj.png" width="200" /> 
-<img src="figures/fit_ilc2C_EmL.png" width="200" /> 
-<img src="figures/fit_ilc2C_MmL.png" width="200" /> 
-<img src="figures/MrecoilC_mh124.png" width="200" /> 
-<img src="figures/fit_ngmm1_EeR.png" width="200" /> 
-<img src="figures/fit_ngmm1_MeR.png" width="200" /> 
-<img src="figures/MrecoilN_mh127.png" width="200" /> 
+<img src="figures/stau11-stc-epj-style_wmissch" width="200" /> 
+<img src="figures/smurr_tnphs_rl_006_selcuts_skim_whiz6_epj" width="200" /> 
+<img src="figures/serr_tnphs_rl_006_selcuts_skim_whiz6_epj" width="200" /> 
+<img src="figures/fit_ilc2C_EmL" width="200" /> 
+<img src="figures/fit_ilc2C_MmL" width="200" /> 
+<img src="figures/MrecoilC_mh124" width="200" /> 
+<img src="figures/fit_ngmm1_EeR" width="200" /> 
+<img src="figures/fit_ngmm1_MeR" width="200" /> 
+<img src="figures/MrecoilN_mh127" width="200" /> 
 
 
 -  (a) Recoil mass distributions for several new scalars and the SM background. (b) Projected exclusion limit for new scalars, in terms of the coupling compared to the coupling an SM Higgs at the same mass would have. \label{fig:otherbsm}}
-<img src="figures/po_muon_kcut_recoil_mass_summary1.png" width="200" /> 
-<img src="figures/exclusion_limits_08_03_compare_LEP.png" width="200" /> 
+<img src="figures/po_muon_kcut_recoil_mass_summary1" width="200" /> 
+<img src="figures/exclusion_limits_08_03_compare_LEP" width="200" /> 
 
 
 - Significance of the deviations from the Standard Model predictions for the extended Higgs bosons of the Inert Doublet Model, as expected for 1~ab$^{-1}$ of data collected at center-of-mass energy of 250\,GeV, 380\,GeV and   500\,GeV, from~\cite{Zarnecki:2019poj,Sokolowska:2019xhe}.  Left:  for events with two muons in the final state ($\mu^+\mu^-$), as a function of the sum of neutral inert scalar masses; Right: for events with an electron and a muon in the final state ($e^+\mu^-$ or $e^-\mu^+$) as a function of twice the charged scalar mass.  }
@@ -85,8 +85,8 @@ D. Sokolowska, J. Kalinowski, J. Klamka, P. Sopicki, A.F. Zarnecki, W. Kotlarski
 
 
 - \label{fig:searches_WIMPs} (a): Observational reach (2$\sigma$) of the ILC for a fermionic WIMP with a WIMP-fermion vector coupling in terms of the WIMP mass for four different beam-polarization configurations~\cite{Habermehl:417605}.  (b): Expected limits on the vector mediator coupling to electrons for the ILC running at 500\,GeV and different fractional mediator widths, as a function of the mediator mass \cite{Kalinowski:2021tyr}. }
-<img src="figures/vector_different_posipol.png" width="200" /> 
-<img src="figures/ilc2_sys_all_coupling_Xd_Yv_wid.png" width="200" /> 
+<img src="figures/vector_different_posipol" width="200" /> 
+<img src="figures/ilc2_sys_all_coupling_Xd_Yv_wid" width="200" /> 
 M. Habermehl, Dark Matter at the International Linear Collider, dissertation, Universität Hamburg, Hamburg, 2018.  https://bib-pubdb1.desy.de/record/417605 .  
 
 
@@ -102,15 +102,15 @@ A. Das, S. Mandal and T. Modak, Testing triplet fermions at the electron-positro
 
 
 - Left: \textit{qql} mass distribution for ILC500 for muons in the final state. Black solid line stands for the $e^+e^-$ background, red dashed line for the $\gamma$-induced background and thick green line for a reference signal scenario (Dirac neutrino with a mass of 300\,GeV). Right: limits on the coupling $V^2_{lN}$ for different colliders (solid lines: ILC500 -- green, ILC1000 -- violet, CLIC3000 -- dark red). Dashed lines indicate limits from current and future hadron colliders based on \cite{Sirunyan:2018mtv,Pascoli:2018heg}. Figure taken from \cite{Mekala:2022cmm}.
-<img src="figures/mass_ILC500_mu.png" width="200" /> 
-<img src="figures/new_results.png" width="200" /> 
+<img src="figures/mass_ILC500_mu" width="200" /> 
+<img src="figures/new_results" width="200" /> 
  CMS collaboration, Search for heavy neutral leptons in events with three charged leptons in proton-proton collisions at $\sqrts =$ 13 TeV, https://doi.org/10.1103/PhysRevLett.120.221801 Phys. Rev. Lett.   120 (2018) 221801 [https://arxiv.org/abs/1802.02965  1802.02965].  
 S. Pascoli, R. Ruiz and C. Weiland, Heavy neutrinos with dynamic jet vetoes: multilepton searches at $ \sqrts=14 $ , 27, and 100 TeV, https://doi.org/10.1007/JHEP06(2019)049 JHEP   06 (2019) 049 [https://arxiv.org/abs/1812.08750  1812.08750].  
 
 
 -   (a) Exclusion reach for Right-handed Heavy Neutrinos. (b) Comparison of the value of the neutrino atmospheric mixing angle $\sin^2\theta_{23}$  to the value obtained from the ILC measurements of the neutralino decay branching ratios in the R-parity  violating  model described in the text, from \cite{Vormwald:2013sfm}. }
-<img src="figures/exclusion_righthanded_N.png" width="200" /> 
-<img src="figures/ListVormwald.png" width="200" /> 
+<img src="figures/exclusion_righthanded_N" width="200" /> 
+<img src="figures/ListVormwald" width="200" /> 
 B. Vormwald and J. List, Bilinear $R$ parity violation at the ILC: neutrino physics at colliders, https://doi.org/10.1140/epjc/s10052-014-2720-y Eur. Phys. J. C   74 (2014) 2720 [https://arxiv.org/abs/1307.4074  1307.4074].  
 
 

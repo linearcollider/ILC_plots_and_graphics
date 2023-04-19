@@ -1,6 +1,6 @@
 - Left: Cross section of the two leading diHiggs production modes in a lepton collider as a function of the center-of-mass energy. Right: Dependence of the signal strengths on the trilinear coupling of the Higgs with the horizontal bands showing the estimated sensitivities.
 <img src="figures/hh_xsec.png" width="200" /> 
-<img src="figures/cross_kappa.png" width="200" /> 
+<img src="figures/cross_kappa" width="200" /> 
 
 
 - Composite Higgs reach from Higgs boson, top quark and Drell-Yan studies taken from Refs.~\cite{deBlas:2018mhx} and \cite{CLICdp:2018esa}. Left panel: $5\sigma$ discovery contours for Higgs compositeness in the $(m_{*},g_{*})$ plane, and as well the $2\sigma$ projected exclusions from the HL-LHC. Right panel: The $5\sigma$ top quark compositeness discovery contours in the $(m_{*},g_{*})$ planes from studies of $t\overbar{t}$ and $t\overbar{t}h$ final states. In both panels, darker and lighter shaded areas correspond to the variations of the size of the operators' coefficients by a factor of 2 or 1/2 on top of the baseline expectation from the values of $m_{*}$ and $g_{*}$.}
