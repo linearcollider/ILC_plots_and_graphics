@@ -25,4 +25,6 @@ Left: ILC reach for dark matter particle coupled to electrons through an effecti
  
 [<img src="figures/ILC_WIMP_EFT_Reach.png" width="200" />](figures/ILC_WIMP_EFT_Reach.pdf)[<img src="figures/ILC_WIMP_Mass.png" width="200" />](figures/ILC_WIMP_Mass.pdf)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 

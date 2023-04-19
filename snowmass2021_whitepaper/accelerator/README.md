@@ -35,6 +35,8 @@ Comparison of the performance of several 1-cell cavities from N-infusion with ca
  
 [<img src="figures/Qcomparison.png" width="200" />](figures/Qcomparison.pdf)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -42,6 +44,8 @@ Comparison of the performance of several 1-cell cavities from N-infusion with ca
  (a):  $Q$ vs. $E$ curve of 1-cell cavity reaching 49 MV/m from Cold EP/optimized baking (75/120 C) compared to the curve of a cavity prepared by the standard ILC recipe. (b) Histogram of gradients of a large number of single cell cavities prepared by Cold EP/optimized baking (75/120 C). 
  
 [<img src="figures/Gradients-1.png" width="200" />](figures/Gradients-1.pdf)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 
@@ -51,6 +55,8 @@ Comparison of the performance of several 1-cell cavities from N-infusion with ca
  
 [<img src="figures/HighGradients.png" width="200" />](figures/HighGradients.pdf)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -58,6 +64,8 @@ Comparison of the performance of several 1-cell cavities from N-infusion with ca
 The TW structure compared to the one-meter standing-wave ILC structure.
  
 [<img src="figures/TWvsCurrent.png" width="200" />](figures/TWvsCurrent.pdf)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 
@@ -67,6 +75,8 @@ The TW structure compared to the one-meter standing-wave ILC structure.
  
 [<img src="figures/TWstructures.png" width="200" />](figures/TWstructures.pdf)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -74,6 +84,8 @@ The TW structure compared to the one-meter standing-wave ILC structure.
 (a) Record CW behavior for Nb$_3$Sn coated with the solid state diffusion method at Fermilab showed $E_{acc}$ =  23 MV/m.  Excellent performance was obtained by making a smooth thin film about 1 $\mu$m. (b) Measurements of the critical RF field of Nb$_3$Sn using high power pulsed RF.  The high temperature results extrapolate to a maximum surface magnetic field of 300 mT, which would translate to $E_{acc}$ = 85 MV/m for a Low-Loss shape cavity.
  
 [<img src="figures/Nb3Sn.png" width="200" />](figures/Nb3Sn.pdf)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 
@@ -83,6 +95,8 @@ Schematic layout of the ILC in the $250\,{\mathrm{GeV}}$ staged configuration.
  
 [<img src="figures/TDR-machine-layout-cartoon-staged-mirror-500and250.png" width="200" />](figures/TDR-machine-layout-cartoon-staged-mirror-500and250.pdf)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -91,6 +105,8 @@ A $1.3\,{\mathrm{GHz}}$ superconducting niobium nine-cell cavity. }
  
 [<img src="figures/tesla9cell-cavity-2.jpeg" width="200" />](figures/tesla9cell-cavity-2.jpeg)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -98,6 +114,8 @@ A $1.3\,{\mathrm{GHz}}$ superconducting niobium nine-cell cavity. }
 An ILC type cryomodule. \copyright Rey.Hori/KEK.
  
 [<img src="figures/10_ILC_cryomodule.jpg" width="200" />](figures/10_ILC_cryomodule.jpg)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 
@@ -126,6 +144,8 @@ Distribution and yield of the ``as received'' maximum gradient of cavities produ
 An European XFEL type coupler.  }
  
 [<img src="figures/xfelcoupler.png" width="200" />](figures/xfelcoupler.pdf)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 
@@ -165,6 +185,8 @@ Artist's rendition of the ILC Main Linac tunnel. The shield wall in the middle h
  
 [<img src="figures/ILC2016_tunnel_A1_160826-low4.jpg" width="200" />](figures/ILC2016_tunnel_A1_160826-low4.jpg)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -172,6 +194,8 @@ Artist's rendition of the ILC Main Linac tunnel. The shield wall in the middle h
 Cross section through the Main Linac tunnel.
  
 [<img src="figures/ML-cross-section.png" width="200" />](figures/ML-cross-section.png)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 
@@ -203,6 +227,8 @@ Geological situation at the Kitakami site.
  
 [<img src="figures/Kitakami_Geology.png" width="200" />](figures/Kitakami_Geology.pdf)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -221,6 +247,8 @@ Schematic for the concept of Green ILC.
  
 [<img src="figures/GILC-Figures-p1-trim.jpg" width="200" />](figures/GILC-Figures-p1-trim.jpg)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -228,6 +256,8 @@ Schematic for the concept of Green ILC.
 Illustrations of R\&D for high-efficiency components of the ILC. Upper left: a proposal for efficient refrigerator, Lower left: proposals for a high efficiency power source; Upper right: examples of high-Q and high-gradient cavities;  Lower right: a proposal for a beam dump with wake field deceleration.
  
 [<img src="figures/GILC-Figures-p2-trim.jpg" width="200" />](figures/GILC-Figures-p2-trim.jpg)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 
@@ -237,6 +267,8 @@ Proposals for a  smart power grid (left) and  biomass power network (right) for 
  
 [<img src="figures/GILC-Figures-p4-trim.jpg" width="200" />](figures/GILC-Figures-p4-trim.jpg)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -244,6 +276,8 @@ Proposals for a  smart power grid (left) and  biomass power network (right) for 
 A proposal to use the waste heat of ILC tunnel for drying biomass.
  
 [<img src="figures/GILC-Figures-p5-trim.jpg" width="200" />](figures/GILC-Figures-p5-trim.jpg)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 
@@ -253,6 +287,8 @@ Breakdown of total CO$_2$ emission in Ichinoseki city, including the contributio
  
 [<img src="figures/GILC-IchinosekiCO2.png" width="200" />](figures/GILC-IchinosekiCO2.png)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -261,6 +297,8 @@ Breakdown of Value costs into accelerator systems (left) and technical systems (
  
 [<img src="figures/costs-as.png" width="200" />](figures/costs-as.pdf)[<img src="figures/costs-ts.png" width="200" />](figures/costs-ts.pdf)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -268,6 +306,8 @@ Breakdown of Value costs into accelerator systems (left) and technical systems (
 Summary of the Work Packages for the technical preparations that will be carried out during the ILC Pre-Lab period.}
  
 [<img src="figures/WPsV3.png" width="200" />](figures/WPsV3.pdf)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 
@@ -286,5 +326,7 @@ Cutaway view of an ILC cryomodule.  (Image by Rey Hori \cite{HoriCryo}.)
 View of some of the cryomodule assembly facilities at Fermilab (left) and Jefferson Lab (right).
  
 [<img src="figures/CryoInstallation.png" width="200" />](figures/CryoInstallation.pdf)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 

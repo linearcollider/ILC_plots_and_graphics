@@ -51,6 +51,8 @@ The projected 95\% C.L. bounds on the EFT operator coefficients that give rise t
  
 [<img src="figures/limits_full_ilc_H-3.png" width="200" />](figures/limits_full_ilc_H-3.pdf)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -117,6 +119,8 @@ Visibility of deviations from the SM predictions in $g_{b_j}^Z$, $g_{b_j}^Z$ (to
  
 [<img src="figures/exclusion_complete_higgsino.png" width="200" />](figures/exclusion_complete_higgsino.pdf)[<img src="figures/stau_exclusion_extrapolations.png" width="200" />](figures/stau_exclusion_extrapolations.pdf)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -124,6 +128,8 @@ Visibility of deviations from the SM predictions in $g_{b_j}^Z$, $g_{b_j}^Z$ (to
  Observed or projected exclusion regions for a $\XPM{1}$ NLSP, for LEPII, LHC, HL-LHC.  The vertical lines indicate the model-independent reach of ILC-500 and ILC-1000. The symbols very close to the line $\MXN{1} = \MXC{1}$ indicate the location of the  Higgsino LSP models shown in Fig. \ref{fig:sleptC1N2}.} 
  
 [<img src="figures/fig_08d_w_lep_w_lhc2019_lodm_w_bmark_w_hlproj_rad_nat_only_C1-012.png" width="200" />](figures/fig_08d_w_lep_w_lhc2019_lodm_w_bmark_w_hlproj_rad_nat_only_C1-012.pdf)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 
@@ -133,6 +139,8 @@ Top row: $\stau$, $\smu$ and $\sel$ spectra. Middle and bottom rows: Observables
  
 [<img src="figures/stau11-stc-epj-style_wmissch.png" width="200" />](figures/stau11-stc-epj-style_wmissch.pdf)[<img src="figures/smurr_tnphs_rl_006_selcuts_skim_whiz6_epj.png" width="200" />](figures/smurr_tnphs_rl_006_selcuts_skim_whiz6_epj.pdf)[<img src="figures/serr_tnphs_rl_006_selcuts_skim_whiz6_epj.png" width="200" />](figures/serr_tnphs_rl_006_selcuts_skim_whiz6_epj.pdf)[<img src="figures/fit_ilc2C_EmL.png" width="200" />](figures/fit_ilc2C_EmL.pdf)[<img src="figures/fit_ilc2C_MmL.png" width="200" />](figures/fit_ilc2C_MmL.pdf)[<img src="figures/MrecoilC_mh124.png" width="200" />](figures/MrecoilC_mh124.pdf)[<img src="figures/fit_ngmm1_EeR.png" width="200" />](figures/fit_ngmm1_EeR.pdf)[<img src="figures/fit_ngmm1_MeR.png" width="200" />](figures/fit_ngmm1_MeR.pdf)[<img src="figures/MrecoilN_mh127.png" width="200" />](figures/MrecoilN_mh127.pdf)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -140,6 +148,8 @@ Top row: $\stau$, $\smu$ and $\sel$ spectra. Middle and bottom rows: Observables
  (a) Recoil mass distributions for several new scalars and the SM background. (b) Projected exclusion limit for new scalars, in terms of the coupling compared to the coupling an SM Higgs at the same mass would have. 
  
 [<img src="figures/po_muon_kcut_recoil_mass_summary1.png" width="200" />](figures/po_muon_kcut_recoil_mass_summary1.png)[<img src="figures/exclusion_limits_08_03_compare_LEP.png" width="200" />](figures/exclusion_limits_08_03_compare_LEP.pdf)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 
@@ -248,5 +258,7 @@ Left panel: Sensitivity projections for long-lived ALPs with $m_a = 300$ MeV at 
 Efficiency of track reconstruction as a function of the long-lived particle decay length s$_\textrm{LLP}$, for example scenarios with decays of heavy neutral scalar A to lighter heavy scalar H and a pair of muons, for two heavy scalar mass differences of 1\,GeV and 5\,GeV.  
  
 [<img src="figures/trackEffVsL_report.png" width="200" />](figures/trackEffVsL_report.pdf)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 

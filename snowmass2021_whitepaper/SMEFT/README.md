@@ -15,4 +15,6 @@ Vertex correction giving a dependence of the $HZZ$ and $HWW$ vertices on the Hig
  
 [<img src="figures/HiggsVertex.png" width="200" />](figures/HiggsVertex.pdf)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 

@@ -5,6 +5,8 @@ Left: Three-dimensional rendering of the ILD detector. Right: Event display of a
  
 [<img src="figures/ILD_all_110826.jpg" width="200" />](figures/ILD_all_110826.jpg)[<img src="figures/ttbar_500GeV_3dview-41.png" width="200" />](figures/ttbar_500GeV_3dview-41.png)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -22,6 +24,8 @@ Flavour tag performance for the large and small ILD detector models. Background 
 Layout of the inner Silicon (SIT) and forward Silicon (FTD) trackers surrounding the vertex detector.
  
 [<img src="figures/ILD_silicon_trackers.jpg" width="200" />](figures/ILD_silicon_trackers.jpg)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 
@@ -41,6 +45,8 @@ Left: Three-dimensional rendering of the barrel calorimeter system, with one ECA
  
 [<img src="figures/ECal_insertion.jpg" width="200" />](figures/ECal_insertion.jpg)[<img src="figures/ILD_LUMICAL.png" width="200" />](figures/ILD_LUMICAL.png)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -48,6 +54,8 @@ Left: Three-dimensional rendering of the barrel calorimeter system, with one ECA
 Map with the location of the ILD member institutes indicated.
  
 [<img src="figures/ILD_members_map.png" width="200" />](figures/ILD_members_map.pdf)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 
@@ -57,6 +65,8 @@ The SiD detector concept.
  
 [<img src="figures/SiD.png" width="200" />](figures/SiD.pdf)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -64,6 +74,8 @@ The SiD detector concept.
 r-z view of vertex detector and outer tracker. 
  
 [<img src="figures/vxdtrk.png" width="200" />](figures/vxdtrk.pdf)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 
@@ -73,6 +85,8 @@ Material in the SiD detector, in terms of fractions of a radiation length, as a 
  
 [<img src="figures/SiD_material_budget_tracker.png" width="200" />](figures/SiD_material_budget_tracker.png)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -80,6 +94,8 @@ Material in the SiD detector, in terms of fractions of a radiation length, as a 
 Left: Picture of a GaAs sensor. The bond pads are visible on top of the sensor, Right: Cross-profile of a GaAs sensor. The aluminum traces are positioned between the pads, on the top of the passivation layer.
  
 [<img src="figures/ECAL_GAAS_pic.png" width="200" />](figures/ECAL_GAAS_pic.png)[<img src="figures/ECAL_GAAS_cut.png" width="200" />](figures/ECAL_GAAS_cut.png)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 
@@ -89,6 +105,8 @@ Left: Picture of the surface of a GaAs sensor. The aluminum traces are positione
  
 [<img src="figures/ECAL_traces_detail.png" width="200" />](figures/ECAL_traces_detail.png)[<img src="figures/ECAL_GaAs_leakage.jpg" width="200" />](figures/ECAL_GaAs_leakage.jpg)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -96,6 +114,8 @@ Left: Picture of the surface of a GaAs sensor. The aluminum traces are positione
 Distribution of signals measured with the GaAs pad sensors in an electron beam of 5 GeV.
  
 [<img src="figures/ECAL_signal_distribution.png" width="200" />](figures/ECAL_signal_distribution.pdf)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 
@@ -105,6 +125,8 @@ Left: Picture of a metallised sapphire sensor, Right: Schematic view of the sapp
  
 [<img src="figures/Sapphire_sensor.png" width="200" />](figures/Sapphire_sensor.png)[<img src="figures/Sapphire_stack.png" width="200" />](figures/Sapphire_stack.png)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -113,6 +135,8 @@ Image of the stack using electron tomography
  
 [<img src="figures/Sapphire_stack_image.jpg" width="200" />](figures/Sapphire_stack_image.jpg)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -120,6 +144,8 @@ Image of the stack using electron tomography
 Left: Digitised analog signals for bias voltages of 550 (red) and 950 V (black) as a function of the time, Right: The CCD measured for all sensor plates a function of the bias voltage.
  
 [<img src="figures/Sapphire_analog_signal.jpg" width="200" />](figures/Sapphire_analog_signal.jpg)[<img src="figures/Sapphire_cce.png" width="200" />](figures/Sapphire_cce.png)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 

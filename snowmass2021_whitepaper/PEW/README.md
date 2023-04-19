@@ -15,6 +15,8 @@ Distributions of $\cos\theta_b$  obtained for $\ELER$ (left) and $\EREL$ (right)
  
 [<img src="figures/eL.png" width="200" />](figures/eL.pdf)[<img src="figures/eR.png" width="200" />](figures/eR.pdf)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -23,6 +25,8 @@ Reconstructed distribution of $x\equiv\frac{2|\beta|}{1+|\beta|}$ for the signal
  
 [<img src="figures/beta_az.png" width="200" />](figures/beta_az.pdf)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -30,6 +34,8 @@ Reconstructed distribution of $x\equiv\frac{2|\beta|}{1+|\beta|}$ for the signal
 Reconstructed distribution of 2-jet invariant mass for the signal $e^+e^-\to\gamma Z$, $Z\to q\bar{q}$ and background events based on full detector simulation, at $\sqrt{s}=250$ GeV with an integrated luminosity of 900 fb$^{-1}$. Top two figures are in linear scale and bottom two are in logarithmic scale. The left two are for $P(e^-,e^+)=(-0.8,+0.3)$ and the right two are for $P(e^-,e^+)=(+0.8,-0.3)$.}
  
 [<img src="figures/AZ_m2j_full.png" width="200" />](figures/AZ_m2j_full.pdf)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 

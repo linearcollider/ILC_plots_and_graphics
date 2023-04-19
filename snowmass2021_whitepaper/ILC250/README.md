@@ -37,6 +37,8 @@ Representative topologies of the Higgs exotic decays.
  
 [<img src="figures/topologies.png" width="200" />](figures/topologies.pdf)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -45,6 +47,8 @@ The 95\% C.L. upper limit on the Higgs exotic decay branching fractions into $jj
  
 [<img src="figures/Br95_jjMET.png" width="200" />](figures/Br95_jjMET.pdf)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -52,6 +56,8 @@ The 95\% C.L. upper limit on the Higgs exotic decay branching fractions into $jj
 Stacked distribution of reconstructed average scalar mass for the signal $e^+e^-\to l^+l^- H$, $H\to \phi\phi\to (b\bar{b})(b\bar{b})$ and background events based on full detector simulation, at $\sqrt{s}=250$ GeV with an integrated luminosity of 900 fb$^{-1}$. Left figure is for $P(e^-,e^+)=(-0.8,+0.3)$ and right is for $P(e^-,e^+)=(+0.8,-0.3)$.}
  
 [<img src="figures/mphi_H4b.png" width="200" />](figures/mphi_H4b.pdf)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 
@@ -70,6 +76,8 @@ Stacked distribution of reconstructed average scalar mass for the signal $e^+e^-
 
  
 [<img src="figures/TGC_pars_2f4f_ALRfix.png" width="200" />](figures/TGC_pars_2f4f_ALRfix.pdf)[<img src="figures/TGC_pars_4f_ALRfree.png" width="200" />](figures/TGC_pars_4f_ALRfree.pdf)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 
@@ -90,6 +98,8 @@ Stacked distribution of reconstructed average scalar mass for the signal $e^+e^-
 Generalized angularities (a), and groomed angularities (b) measured on gluon jets with different event generators. Large discrepancies are observed due to a lack of tuning data. Figures courtesy of Gregory Soyez.
  
 [<img src="figures/gregory_Hgg.png" width="200" />](figures/gregory_Hgg.pdf)[<img src="figures/gregory_Hgg_groomed.png" width="200" />](figures/gregory_Hgg_groomed.pdf)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 

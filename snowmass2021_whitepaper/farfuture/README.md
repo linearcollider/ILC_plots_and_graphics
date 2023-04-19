@@ -5,6 +5,8 @@ Left: Cross section of the two leading diHiggs production modes in a lepton coll
  
 [<img src="figures/hh_xsec.png" width="200" />](figures/hh_xsec.pdf)[<img src="figures/cross_kappa.png" width="200" />](figures/cross_kappa.pdf)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -35,6 +37,8 @@ Event rates and exclusions for the wino and higgsino signal in the lifetime vs. 
  
 [<img src="figures/CLIC_wino.png" width="200" />](figures/CLIC_wino.pdf)[<img src="figures/CLIC_higgsino.png" width="200" />](figures/CLIC_higgsino.pdf)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -42,6 +46,8 @@ Event rates and exclusions for the wino and higgsino signal in the lifetime vs. 
 Blue line: HL-LHC projected 95\% C.L. exclusion limit for the Higgs portal singlet model as the function of $c\tau_\chi$ for $m_\chi=30$ GeV. Orange line: projection for CLIC with the same model.
  
 [<img src="figures/CLIC_hportal.png" width="200" />](figures/CLIC_hportal.pdf)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 
@@ -51,6 +57,8 @@ Schematic layout of the CLIC complex at \SI{380}{\GeV}.
  
 [<img src="figures/acc380.png" width="200" />](figures/acc380.png)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -58,5 +66,7 @@ Schematic layout of the CLIC complex at \SI{380}{\GeV}.
  \small Technology and construction-driven CLIC schedule. The time needed for reconfiguration (connection, hardware commissioning) between the stages is also indicated.
  
 [<img src="figures/master_schedule.png" width="200" />](figures/master_schedule.pdf)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 

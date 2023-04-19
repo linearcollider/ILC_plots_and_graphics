@@ -5,6 +5,8 @@ Distribution of beam dumps over the ILC facility. The electron, positron and pho
  
 [<img src="figures/BeamDumpDistribution-2.png" width="200" />](figures/BeamDumpDistribution-2.png)
 
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
+
 
 
  
@@ -24,6 +26,8 @@ The reach of a beam-dump experiment at the ILC-250 for axion-like particles (lef
 Reach of the ILC search for dark photon decaying invisibly to a pair of stable dark matter particles. For comparison, the current constraints (shaded) and reach of proposed BDX and LDMX experiments are also shown. Blue lines indicate the parameters where the DM thermal relic density matches the observed value. 
  
 [<img src="figures/ele_ele_1_daiki.png" width="200" />](figures/ele_ele_1_daiki.pdf)[<img src="figures/pos_ele_1_daiki.png" width="200" />](figures/pos_ele_1_daiki.pdf)
+
+- ##### A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622 
 
 
 
