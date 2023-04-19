@@ -21,7 +21,7 @@ Steady progress in single and multi-cell cavity gradients over 3+ decades \cite{
 
  
 -----
- (a) Q = $5\times 10^{10}$ at 30 MV/m by baking at 300~C to dissolve the natural oxide (and other surface layers) into the bulk, but not exposing the cavity to air or water before RF measurements; (b) IHEP (China) results on mid-T baking for 9-cell cavities compared to results on the same cavities with the standard ILC treatment~\cite{He:2020ptd}; (c) 300~C baking results from KEK on single cell cavities after high pressure water rinsing.  Standard ILC treatment results are also included.
+ (a) Q = $5\times 10^{10}$ at 30 MV/m by baking at 300 C to dissolve the natural oxide (and other surface layers) into the bulk, but not exposing the cavity to air or water before RF measurements; (b) IHEP (China) results on mid-T baking for 9-cell cavities compared to results on the same cavities with the standard ILC treatment \cite{He:2020ptd}; (c) 300 C baking results from KEK on single cell cavities after high pressure water rinsing.  Standard ILC treatment results are also included.
  
 [<img src="figures/Qresults.png" width="200" />](figures/Qresults.pdf)[<img src="figures/Qresults-partc.png" width="200" />](figures/Qresults-partc.pdf)
 
@@ -31,7 +31,7 @@ Steady progress in single and multi-cell cavity gradients over 3+ decades \cite{
 
  
 -----
-Comparison of the performance of several 1-cell cavities from N-infusion with cavities prepared by the standard ILC recipe of EP and 120~C baking.
+Comparison of the performance of several 1-cell cavities from N-infusion with cavities prepared by the standard ILC recipe of EP and 120 C baking.
  
 [<img src="figures/Qcomparison.png" width="200" />](figures/Qcomparison.pdf)
 
@@ -39,7 +39,7 @@ Comparison of the performance of several 1-cell cavities from N-infusion with ca
 
  
 -----
- (a):  $Q$ vs. $E$ curve of 1-cell cavity reaching 49 MV/m from Cold EP/optimized baking (75/120~C) compared to the curve of a cavity prepared by the standard ILC recipe. (b) Histogram of gradients of a large number of single cell cavities prepared by Cold EP/optimized baking (75/120~C). 
+ (a):  $Q$ vs. $E$ curve of 1-cell cavity reaching 49 MV/m from Cold EP/optimized baking (75/120 C) compared to the curve of a cavity prepared by the standard ILC recipe. (b) Histogram of gradients of a large number of single cell cavities prepared by Cold EP/optimized baking (75/120 C). 
  
 [<img src="figures/Gradients-1.png" width="200" />](figures/Gradients-1.pdf)
 
@@ -47,7 +47,7 @@ Comparison of the performance of several 1-cell cavities from N-infusion with ca
 
  
 -----
- (a) Gradients greater than 50~MV/m demonstrated in single cell cavities of various improved shapes. (b) Comparison of RE (top), LL/ICHIRO (middle) and TESLA (bottom) cavity cell shapes.  Here,  color is magnetic field intensity, red highest, blue lowest.   (c) Record gradient near 59~MV/m demonstrated with the RE shape (60~mm aperture).
+ (a) Gradients greater than 50 MV/m demonstrated in single cell cavities of various improved shapes. (b) Comparison of RE (top), LL/ICHIRO (middle) and TESLA (bottom) cavity cell shapes.  Here,  color is magnetic field intensity, red highest, blue lowest.   (c) Record gradient near 59 MV/m demonstrated with the RE shape (60 mm aperture).
  
 [<img src="figures/HighGradients.png" width="200" />](figures/HighGradients.pdf)
 
@@ -71,7 +71,7 @@ The TW structure compared to the one-meter standing-wave ILC structure.
 
  
 -----
-(a) Record CW behavior for Nb$_3$Sn coated with the solid state diffusion method at Fermilab showed $E_{acc}$ =  23 MV/m.  Excellent performance was obtained by making a smooth thin film about 1~$\mu$m. (b) Measurements of the critical RF field of Nb$_3$Sn using high power pulsed RF.  The high temperature results extrapolate to a maximum surface magnetic field of 300 mT, which would translate to $E_{acc}$ = 85 MV/m for a Low-Loss shape cavity.
+(a) Record CW behavior for Nb$_3$Sn coated with the solid state diffusion method at Fermilab showed $E_{acc}$ =  23 MV/m.  Excellent performance was obtained by making a smooth thin film about 1 $\mu$m. (b) Measurements of the critical RF field of Nb$_3$Sn using high power pulsed RF.  The high temperature results extrapolate to a maximum surface magnetic field of 300 mT, which would translate to $E_{acc}$ = 85 MV/m for a Low-Loss shape cavity.
  
 [<img src="figures/Nb3Sn.png" width="200" />](figures/Nb3Sn.pdf)
 
@@ -79,7 +79,7 @@ The TW structure compared to the one-meter standing-wave ILC structure.
 
  
 -----
-Schematic layout of the ILC in the $250\,{\mathrm{GeV}}$ staged configuration. \label{fig:ilc-schematic}}
+Schematic layout of the ILC in the $250\,{\mathrm{GeV}}$ staged configuration. 
  
 [<img src="figures/TDR-machine-layout-cartoon-staged-mirror-500and250.png" width="200" />](figures/TDR-machine-layout-cartoon-staged-mirror-500and250.pdf)
 
@@ -131,7 +131,7 @@ An European XFEL type coupler.  }
 
  
 -----
-View of installed cryomodules in the tunnel of the European XFEL~\cite{Reschke:2018ywk}. }
+View of installed cryomodules in the tunnel of the European XFEL \cite{Reschke:2018ywk}. }
  
 [<img src="figures/srf17-moxa02-fig1.png" width="200" />](figures/srf17-moxa02-fig1.pdf)
 
@@ -151,7 +151,7 @@ Average of the operating (blue) and maximum (green) gradient for cavities in eac
 
  
 -----
-Electron phase  profile of an \siunit{800}{MHz} klystron employing the Core Oscillation Method (COM)~\cite{Constable:2017hha}. }
+Electron phase  profile of an \siunit{800}{MHz} klystron employing the Core Oscillation Method (COM) \cite{Constable:2017hha}. }
  
 [<img src="figures/eefact16-wet3ah2-fig1.png" width="200" />](figures/eefact16-wet3ah2-fig1.pdf)
 
@@ -177,7 +177,7 @@ Cross section through the Main Linac tunnel.
 
  
 -----
-Cryogenic layout for a gradient of \siunit{31.5}{MV/m} (top) and \siunit{35}{MV/m} (bottom)~\cite{Evans:2017rvt}. ``Module space'' indicates how many cryomodules can be physically installed, ``cryomodules'' and ``RF unit'' indicates the number of actually installed modules and klystrons (one klystron per 4.5 cryomodules). ``E gain'' indicates the energy gain in GeV. ``BC'', ``ML'', ``e+ inj'', ``e- inj'' and ``UND'' refer to the sections with need for liquid helium: bunch compressor, main linac, 5GeV boosters in the positron and electron source, and the positron source undulator section, respectively. PM$\pm8, 10, 12$ refer to access hall locations, ``C'' to cryo plants; meter numbers on top indicate the length of the corresponding section.}
+Cryogenic layout for a gradient of \siunit{31.5}{MV/m} (top) and \siunit{35}{MV/m} (bottom) \cite{Evans:2017rvt}. ``Module space'' indicates how many cryomodules can be physically installed, ``cryomodules'' and ``RF unit'' indicates the number of actually installed modules and klystrons (one klystron per 4.5 cryomodules). ``E gain'' indicates the energy gain in GeV. ``BC'', ``ML'', ``e+ inj'', ``e- inj'' and ``UND'' refer to the sections with need for liquid helium: bunch compressor, main linac, 5GeV boosters in the positron and electron source, and the positron source undulator section, respectively. PM$\pm8, 10, 12$ refer to access hall locations, ``C'' to cryo plants; meter numbers on top indicate the length of the corresponding section.}
  
 [<img src="figures/arxiv-1711-00568-fig-3-4.png" width="200" />](figures/arxiv-1711-00568-fig-3-4.pdf)[<img src="figures/arxiv-1711-00568-fig-3-7.png" width="200" />](figures/arxiv-1711-00568-fig-3-7.pdf)
 
@@ -187,7 +187,7 @@ Cryogenic layout for a gradient of \siunit{31.5}{MV/m} (top) and \siunit{35}{MV/
 
  
 -----
-Beamsizes achieved at the Accelerator Test Facility 2 (ATF2) as a function of time~\cite{bib:atf2esu}. The latest result (\siunit{41}{nm}~\cite{Okugi:2017jji}) is within $10\,\ \label{fig:atf-results}
+Beamsizes achieved at the Accelerator Test Facility 2 (ATF2) as a function of time \cite{bib:atf2esu}. The latest result (\siunit{41}{nm} \cite{Okugi:2017jji}) is within $10\,\ 
  
 [<img src="figures/ATF2trend2018.png" width="200" />](figures/ATF2trend2018.png)
 
@@ -207,7 +207,7 @@ Beamsizes achieved at the Accelerator Test Facility 2 (ATF2) as a function of ti
 
  
 -----
-The Kitakami candidate site for the ILC~\cite{Warmbein:2014a}.
+The Kitakami candidate site for the ILC \cite{Warmbein:2014a}.
  
 [<img src="figures/ILC-Candidate-Area2.jpg" width="200" />](figures/ILC-Candidate-Area2.jpg)
 
@@ -257,7 +257,7 @@ Breakdown of total CO$_2$ emission in Ichinoseki city, including the contributio
 
  
 -----
-Breakdown of Value costs into accelerator systems (left) and technical systems (right) for the \siunit{250}{GeV} ILC accelerator, assuming that cost reduction measures are successful and a gradient of \siunit{35}{MV/m} can be reached. \label{fig:costs}}
+Breakdown of Value costs into accelerator systems (left) and technical systems (right) for the \siunit{250}{GeV} ILC accelerator, assuming that cost reduction measures are successful and a gradient of \siunit{35}{MV/m} can be reached. 
  
 [<img src="figures/costs-as.png" width="200" />](figures/costs-as.pdf)[<img src="figures/costs-ts.png" width="200" />](figures/costs-ts.pdf)
 

@@ -1,7 +1,7 @@
 
  
 -----
-Left: Three-dimensional rendering of the ILD detector. Right: Event display of a simulated hadronic decay of a $t \bar t$ event in ILD. The colors of the tracks show the results of the reconstruction, each color corresponding to a reconstructed particle. \label{ild-fig-ILD}}
+Left: Three-dimensional rendering of the ILD detector. Right: Event display of a simulated hadronic decay of a $t \bar t$ event in ILD. The colors of the tracks show the results of the reconstruction, each color corresponding to a reconstructed particle. 
  
 [<img src="figures/ILD_all_110826.jpg" width="200" />](figures/ILD_all_110826.jpg)[<img src="figures/ttbar_500GeV_3dview-41.png" width="200" />](figures/ttbar_500GeV_3dview-41.png)
 
@@ -27,7 +27,7 @@ Layout of the inner Silicon (SIT) and forward Silicon (FTD) trackers surrounding
 
  
 -----
- Left: Simulated resolution in $1/p_t$ as a function of the momentum for single muons. The different curves correspond to different polar angles. Right: Simulated separation power between pions and kaons {and between kaons and protons}, from $dE/dx$ and from timing, assuming a 100~ps timing resolution of the first ECAL layers (Figures from \cite{ILDConceptGroup:2020sfq}).}
+ Left: Simulated resolution in $1/p_t$ as a function of the momentum for single muons. The different curves correspond to different polar angles. Right: Simulated separation power between pions and kaons {and between kaons and protons}, from $dE/dx$ and from timing, assuming a 100 ps timing resolution of the first ECAL layers (Figures from \cite{ILDConceptGroup:2020sfq}).}
  
 [<img src="figures/PResolution_IDR.png" width="200" />](figures/PResolution_IDR.png)[<img src="figures/Special_Combined_dEdx_TOF100_IDR.png" width="200" />](figures/Special_Combined_dEdx_TOF100_IDR.pdf)
 
@@ -53,7 +53,7 @@ Map with the location of the ILD member institutes indicated.
 
  
 -----
-The SiD detector concept. \label{fig:fig_sid}}
+The SiD detector concept. 
  
 [<img src="figures/SiD.png" width="200" />](figures/SiD.pdf)
 
@@ -61,7 +61,7 @@ The SiD detector concept. \label{fig:fig_sid}}
 
  
 -----
-r-z view of vertex detector and outer tracker. \label{fig:fig_vxdtrk}}
+r-z view of vertex detector and outer tracker. 
  
 [<img src="figures/vxdtrk.png" width="200" />](figures/vxdtrk.pdf)
 
@@ -93,7 +93,7 @@ Left: Picture of the surface of a GaAs sensor. The aluminum traces are positione
 
  
 -----
-Distribution of signals measured with the GaAs pad sensors in an electron beam of 5~GeV.
+Distribution of signals measured with the GaAs pad sensors in an electron beam of 5 GeV.
  
 [<img src="figures/ECAL_signal_distribution.png" width="200" />](figures/ECAL_signal_distribution.pdf)
 
@@ -117,7 +117,7 @@ Image of the stack using electron tomography
 
  
 -----
-Left: Digitised analog signals for bias voltages of 550 (red) and 950~V (black) as a function of the time, Right: The CCD measured for all sensor plates a function of the bias voltage.
+Left: Digitised analog signals for bias voltages of 550 (red) and 950 V (black) as a function of the time, Right: The CCD measured for all sensor plates a function of the bias voltage.
  
 [<img src="figures/Sapphire_analog_signal.jpg" width="200" />](figures/Sapphire_analog_signal.jpg)[<img src="figures/Sapphire_cce.png" width="200" />](figures/Sapphire_cce.png)
 
@@ -125,7 +125,7 @@ Left: Digitised analog signals for bias voltages of 550 (red) and 950~V (black) 
 
  
 -----
-Proposed gaseous RICH detector addition to SiD/ILD~\cite{CairoVavra}.
+Proposed gaseous RICH detector addition to SiD/ILD \cite{CairoVavra}.
  
 [<img src="figures/RICH4ILC.png" width="200" />](figures/RICH4ILC.pdf)
 

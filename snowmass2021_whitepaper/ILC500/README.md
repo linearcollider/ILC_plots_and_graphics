@@ -31,7 +31,7 @@ A simulated top quark threshold scan with a total integrated luminosity of 200 f
 
  
 -----
-Comparison of current 95\ \label{fig:top_ew_coupling_prospects}
+Comparison of current 95\ 
  
 [<img src="figures/Prospects_Linear_S2_ILC250_ILC500.png" width="200" />](figures/Prospects_Linear_S2_ILC250_ILC500.pdf)
 
@@ -39,7 +39,7 @@ Comparison of current 95\ \label{fig:top_ew_coupling_prospects}
 
  
 -----
- \centering \includegraphics{chapters/ILC500/figures/limits_full_ilc_H-3.pdf}The projected 95\ \label{fig:top_fcnc_projections}
+ \centering \includegraphics{chapters/ILC500/figures/limits_full_ilc_H-3.pdf}The projected 95\ 
  
 [<img src="figures/limits_full_ilc_H-3.png" width="200" />](figures/limits_full_ilc_H-3.pdf)
 
@@ -47,7 +47,7 @@ Comparison of current 95\ \label{fig:top_ew_coupling_prospects}
 
  
 -----
- \begin{center} \includegraphics[width=0.70\hsize]{chapters/ILC500/figures/crosssec_selfcoupling_other3_2.pdf} \end{center}Cross-sections for double Higgs production in the SM via Higgs-strahlung and $WW$ fusion as a function of the center-of-mass energy~\cite{Durig:2016jrs}.
+ \begin{center} \includegraphics[width=0.70\hsize]{chapters/ILC500/figures/crosssec_selfcoupling_other3_2.pdf} \end{center}Cross-sections for double Higgs production in the SM via Higgs-strahlung and $WW$ fusion as a function of the center-of-mass energy \cite{Durig:2016jrs}.
  
 [<img src="figures/crosssec_selfcoupling_other3_2.png" width="200" />](figures/crosssec_selfcoupling_other3_2.pdf)
 
@@ -57,7 +57,7 @@ Comparison of current 95\ \label{fig:top_ew_coupling_prospects}
 
  
 -----
-(a) Cross-sections for double Higgs production via Higgs-strahlung (at $\sqrt{s}=500$\,GeV) and $WW$ fusion (at $1$\,TeV) as a function of the triple-Higgs coupling (normalised to its SM value)~\cite{Durig:2016jrs}. (b) Expected precision from each of the two ILC reactions as a function of the actual value of $\lambda$ relative to the SM value.
+(a) Cross-sections for double Higgs production via Higgs-strahlung (at $\sqrt{s}=500$\,GeV) and $WW$ fusion (at $1$\,TeV) as a function of the triple-Higgs coupling (normalised to its SM value) \cite{Durig:2016jrs}. (b) Expected precision from each of the two ILC reactions as a function of the actual value of $\lambda$ relative to the SM value.
  
 [<img src="figures/image1.png" width="200" />](figures/image1.png)[<img src="figures/precision_BSM_HHH.png" width="200" />](figures/precision_BSM_HHH.pdf)
 
@@ -67,7 +67,7 @@ Comparison of current 95\ \label{fig:top_ew_coupling_prospects}
 
  
 -----
-Expected uncertainties in the determination of the Higgs self coupling at the HL-LHC and the ILC as a function of $\lambda/\lambda_{SM}$.  The HL-LHC value for the SM value of $\lambda$ is that projected by the ATLAS collaboration in ~\cite{ATLAS:2018rvj} that is then extrapolated to other values of the coupling. The ILC measurements at 500~GeV and 1~TeV are shown separately and, in red, in combination~\cite{Durig:2016jrs}.}
+Expected uncertainties in the determination of the Higgs self coupling at the HL-LHC and the ILC as a function of $\lambda/\lambda_{SM}$.  The HL-LHC value for the SM value of $\lambda$ is that projected by the ATLAS collaboration in  \cite{ATLAS:2018rvj} that is then extrapolated to other values of the coupling. The ILC measurements at 500 GeV and 1 TeV are shown separately and, in red, in combination \cite{Durig:2016jrs}.}
  
 [<img src="figures/lambda_rel.png" width="200" />](figures/lambda_rel.pdf)
 
@@ -79,7 +79,7 @@ Expected uncertainties in the determination of the Higgs self coupling at the HL
 
  
 -----
-Expected precisions on the three triple gauge coupling parameters at the three energy stages of ILC. The results at $500$\,GeV and at $1$\,TeV are based on the ILD full simulation analyses of semi-leptonic $W$ pair production, extrapolated to include improvements from the fully hadronic channel and single-$W$ production as well as for upgrading from a binned analysis of three angles to an optimal observable technique~\cite{Karl:2019hes}. The S1 scenario assumes the systematic uncertainties from~\cite{Karl:2019hes}, the S2 illustrates the hypothetical reduction by a further factor 2-3 to the level of $1 \times 10^{-4}$. \label{fig:TGC_ILC_allECM}}
+Expected precisions on the three triple gauge coupling parameters at the three energy stages of ILC. The results at $500$\,GeV and at $1$\,TeV are based on the ILD full simulation analyses of semi-leptonic $W$ pair production, extrapolated to include improvements from the fully hadronic channel and single-$W$ production as well as for upgrading from a binned analysis of three angles to an optimal observable technique \cite{Karl:2019hes}. The S1 scenario assumes the systematic uncertainties from \cite{Karl:2019hes}, the S2 illustrates the hypothetical reduction by a further factor 2-3 to the level of $1 \times 10^{-4}$. 
  
 [<img src="figures/DeltaTGCs_ILC.png" width="200" />](figures/DeltaTGCs_ILC.pdf)
 
@@ -91,7 +91,7 @@ Expected precisions on the three triple gauge coupling parameters at the three e
 
  
 -----
-Visibility of deviations from the SM predictions in $g_{b_j}^Z$, $g_{b_j}^Z$ (to do: still missing in this plot) and the helicity amplitudes $Q_{e_i b_j}$, in  standard deviations,  from combined ILC250/Z-Pole running, expected from new physics models with Randall-Sundrum extra dimensions~\cite{Djouadi:2006rk,Funatsu:2017nfm,Yoon:2018xud}.
+Visibility of deviations from the SM predictions in $g_{b_j}^Z$, $g_{b_j}^Z$ (to do: still missing in this plot) and the helicity amplitudes $Q_{e_i b_j}$, in  standard deviations,  from combined ILC250/Z-Pole running, expected from new physics models with Randall-Sundrum extra dimensions \cite{Djouadi:2006rk,Funatsu:2017nfm,Yoon:2018xud}.
  
 [<img src="figures/stdv.png" width="200" />](figures/stdv.pdf)
 
@@ -113,7 +113,7 @@ Visibility of deviations from the SM predictions in $g_{b_j}^Z$, $g_{b_j}^Z$ (to
 
  
 -----
- Observed or projected exclusion regions for a $\XPM{1}$ NLSP, for LEPII, LHC, HL-LHC.  The vertical lines indicate the model-independent reach of ILC-500 and ILC-1000. The symbols very close to the line $\MXN{1} = \MXC{1}$ indicate the location of the  Higgsino LSP models shown in Fig. \ref{fig:sleptC1N2}.} \label{fig:X1summary}
+ Observed or projected exclusion regions for a $\XPM{1}$ NLSP, for LEPII, LHC, HL-LHC.  The vertical lines indicate the model-independent reach of ILC-500 and ILC-1000. The symbols very close to the line $\MXN{1} = \MXC{1}$ indicate the location of the  Higgsino LSP models shown in Fig. \ref{fig:sleptC1N2}.} 
  
 [<img src="figures/fig_08d_w_lep_w_lhc2019_lodm_w_bmark_w_hlproj_rad_nat_only_C1-012.png" width="200" />](figures/fig_08d_w_lep_w_lhc2019_lodm_w_bmark_w_hlproj_rad_nat_only_C1-012.pdf)
 
@@ -121,7 +121,7 @@ Visibility of deviations from the SM predictions in $g_{b_j}^Z$, $g_{b_j}^Z$ (to
 
  
 -----
-Top row: $\stau$, $\smu$ and $\sel$ spectra. Middle and bottom rows: Observables for three different Higgsino-LSP models. The middle row shows the case of $\XPM{1}$ production, the bottom one that of $\XN{2}$ production.  \label{fig:sleptC1N2}}
+Top row: $\stau$, $\smu$ and $\sel$ spectra. Middle and bottom rows: Observables for three different Higgsino-LSP models. The middle row shows the case of $\XPM{1}$ production, the bottom one that of $\XN{2}$ production.  
  
 [<img src="figures/stau11-stc-epj-style_wmissch.png" width="200" />](figures/stau11-stc-epj-style_wmissch.pdf)[<img src="figures/smurr_tnphs_rl_006_selcuts_skim_whiz6_epj.png" width="200" />](figures/smurr_tnphs_rl_006_selcuts_skim_whiz6_epj.pdf)[<img src="figures/serr_tnphs_rl_006_selcuts_skim_whiz6_epj.png" width="200" />](figures/serr_tnphs_rl_006_selcuts_skim_whiz6_epj.pdf)[<img src="figures/fit_ilc2C_EmL.png" width="200" />](figures/fit_ilc2C_EmL.pdf)[<img src="figures/fit_ilc2C_MmL.png" width="200" />](figures/fit_ilc2C_MmL.pdf)[<img src="figures/MrecoilC_mh124.png" width="200" />](figures/MrecoilC_mh124.pdf)[<img src="figures/fit_ngmm1_EeR.png" width="200" />](figures/fit_ngmm1_EeR.pdf)[<img src="figures/fit_ngmm1_MeR.png" width="200" />](figures/fit_ngmm1_MeR.pdf)[<img src="figures/MrecoilN_mh127.png" width="200" />](figures/MrecoilN_mh127.pdf)
 
@@ -129,7 +129,7 @@ Top row: $\stau$, $\smu$ and $\sel$ spectra. Middle and bottom rows: Observables
 
  
 -----
- (a) Recoil mass distributions for several new scalars and the SM background. (b) Projected exclusion limit for new scalars, in terms of the coupling compared to the coupling an SM Higgs at the same mass would have. \label{fig:otherbsm}}
+ (a) Recoil mass distributions for several new scalars and the SM background. (b) Projected exclusion limit for new scalars, in terms of the coupling compared to the coupling an SM Higgs at the same mass would have. 
  
 [<img src="figures/po_muon_kcut_recoil_mass_summary1.png" width="200" />](figures/po_muon_kcut_recoil_mass_summary1.png)[<img src="figures/exclusion_limits_08_03_compare_LEP.png" width="200" />](figures/exclusion_limits_08_03_compare_LEP.pdf)
 
@@ -137,7 +137,7 @@ Top row: $\stau$, $\smu$ and $\sel$ spectra. Middle and bottom rows: Observables
 
  
 -----
-Significance of the deviations from the Standard Model predictions for the extended Higgs bosons of the Inert Doublet Model, as expected for 1~ab$^{-1}$ of data collected at center-of-mass energy of 250\,GeV, 380\,GeV and   500\,GeV, from~\cite{Zarnecki:2019poj,Sokolowska:2019xhe}.  Left:  for events with two muons in the final state ($\mu^+\mu^-$), as a function of the sum of neutral inert scalar masses; Right: for events with an electron and a muon in the final state ($e^+\mu^-$ or $e^-\mu^+$) as a function of twice the charged scalar mass.  }
+Significance of the deviations from the Standard Model predictions for the extended Higgs bosons of the Inert Doublet Model, as expected for 1 ab$^{-1}$ of data collected at center-of-mass energy of 250\,GeV, 380\,GeV and   500\,GeV, from \cite{Zarnecki:2019poj,Sokolowska:2019xhe}.  Left:  for events with two muons in the final state ($\mu^+\mu^-$), as a function of the sum of neutral inert scalar masses; Right: for events with an electron and a muon in the final state ($e^+\mu^-$ or $e^-\mu^+$) as a function of twice the charged scalar mass.  }
  
 [<img src="figures/signif_bdt2_ah_new.png" width="200" />](figures/signif_bdt2_ah_new.pdf)[<img src="figures/signif_bdt2_hphm_new.png" width="200" />](figures/signif_bdt2_hphm_new.pdf)
 
@@ -149,19 +149,17 @@ Significance of the deviations from the Standard Model predictions for the exten
 
  
 -----
-\label{fig:searches_WIMPs} (a): Observational reach (2$\sigma$) of the ILC for a fermionic WIMP with a WIMP-fermion vector coupling in terms of the WIMP mass for four different beam-polarization configurations~\cite{Habermehl:417605}.  (b): Expected limits on the vector mediator coupling to electrons for the ILC running at 500\,GeV and different fractional mediator widths, as a function of the mediator mass \cite{Kalinowski:2021tyr}. }
+ (a): Observational reach (2$\sigma$) of the ILC for a fermionic WIMP with a WIMP-fermion vector coupling in terms of the WIMP mass for four different beam-polarization configurations \cite{Habermehl:417605
  
 [<img src="figures/vector_different_posipol.png" width="200" />](figures/vector_different_posipol.pdf)[<img src="figures/ilc2_sys_all_coupling_Xd_Yv_wid.png" width="200" />](figures/ilc2_sys_all_coupling_Xd_Yv_wid.pdf)
 
 - ##### M. Habermehl, Dark Matter at the International Linear Collider, dissertation, Universität Hamburg, Hamburg, 2018.  https://bib-pubdb1.desy.de/record/417605 .  
 
-- ##### J. Kalinowski, W. Kotlarski, K. Mekala, P. Sopicki and A.F. Zarnecki, Sensitivity of future linear $\hbox e^+\hbox e^-$ colliders to processes of dark matter production with light mediator exchange, https://doi.org/10.1140/epjc/s10052-021-09758-6 Eur. Phys. J. C   81 (2021) 955 [https://arxiv.org/abs/2107.11194  2107.11194].  
-
 
 
  
 -----
-Parameter space of the type-II seesaw model in the plane of the mass of the doubly-charged scalar boson $H^{++}$ and the vacuum expectation value $v_T$ of the neutral component of the $I=1$ scalar field, from~\cite{Antusch:2018svb}.  The upper limit on $v_T$ comes from the value of the $\rho$ parameter.  The strongest lower limits come from direct searches for $H^{++}$ in its decay to like-sign dileptons. The region labeled LLP can be explored at the LHC  in searches for displaced decays.  In the remaining allowed region, the dominant decays of the $H^{++}$ are 3-body decays to $W^+f\bar f$.}
+Parameter space of the type-II seesaw model in the plane of the mass of the doubly-charged scalar boson $H^{++}$ and the vacuum expectation value $v_T$ of the neutral component of the $I=1$ scalar field, from \cite{Antusch:2018svb}.  The upper limit on $v_T$ comes from the value of the $\rho$ parameter.  The strongest lower limits come from direct searches for $H^{++}$ in its decay to like-sign dileptons. The region labeled LLP can be explored at the LHC  in searches for displaced decays.  In the remaining allowed region, the dominant decays of the $H^{++}$ are 3-body decays to $W^+f\bar f$.}
  
 [<img src="figures/Antusch18.png" width="200" />](figures/Antusch18.pdf)
 
@@ -171,7 +169,7 @@ Parameter space of the type-II seesaw model in the plane of the mass of the doub
 
  
 -----
-Sensitivity reach in the mixing angle for production of the heavy $I=1$ lepton in Type III seesaw models, using the final state $e + \missET+$ boosted jet, from \cite{Das:2020gnt}. Left: ILC at 1~TeV with varying levels of integrated luminosity; Right: $\ee$ at 3~TeV with varying levels of integrated luminosity.  The solid lines show upper bounds from  precision electroweak observables, from~\cite{delAguila:2008pw}.}
+Sensitivity reach in the mixing angle for production of the heavy $I=1$ lepton in Type III seesaw models, using the final state $e + \missET+$ boosted jet, from \cite{Das:2020gnt}. Left: ILC at 1 TeV with varying levels of integrated luminosity; Right: $\ee$ at 3 TeV with varying levels of integrated luminosity.  The solid lines show upper bounds from  precision electroweak observables, from \cite{delAguila:2008pw}.}
  
 [<img src="figures/Das1.png" width="200" />](figures/Das1.pdf)[<img src="figures/Das3.png" width="200" />](figures/Das3.pdf)
 
@@ -207,7 +205,7 @@ Left: \textit{qql} mass distribution for ILC500 for muons in the final state. Bl
 
  
 -----
-Projected reach of HL-LHC, Belle-II and the ILC for the dark $Z$ gauge boson, in terms of its mass and the kinetic mixing parameter $\varepsilon$~\cite{EuropeanStrategyforParticlePhysicsPreparatoryGroup:2019qin,Berggren:2021lan}. \label{fig:darkZreach}}
+Projected reach of HL-LHC, Belle-II and the ILC for the dark $Z$ gauge boson, in terms of its mass and the kinetic mixing parameter $\varepsilon$ \cite{EuropeanStrategyforParticlePhysicsPreparatoryGroup:2019qin,Berggren:2021lan}. 
  
 [<img src="figures/ilc-full_sc_w_belle_lhc_wkey.png" width="200" />](figures/ilc-full_sc_w_belle_lhc_wkey.pdf)
 
@@ -219,7 +217,7 @@ Projected reach of HL-LHC, Belle-II and the ILC for the dark $Z$ gauge boson, in
 
  
 -----
-Left- and right-handed couplings of dark $Z$ to leptons, measured by a short dedicated ILC run on the dark $Z$ resonance (assumed to be at 400 GeV in this illustrative example). The benchmark model generates parity-violating dark $Z$ couplings to matter through a combination of mass and kinetic mixing. Orange, blue and green lines correspond to alternative models that can be ruled out by this measurement. From Ref.~\cite{San:2022uud}. \label{fig:darkZcouplings}}
+Left- and right-handed couplings of dark $Z$ to leptons, measured by a short dedicated ILC run on the dark $Z$ resonance (assumed to be at 400 GeV in this illustrative example). The benchmark model generates parity-violating dark $Z$ couplings to matter through a combination of mass and kinetic mixing. Orange, blue and green lines correspond to alternative models that can be ruled out by this measurement. From Ref. \cite{San:2022uud}. 
  
 [<img src="figures/Confidence.png" width="200" />](figures/Confidence.pdf)
 
@@ -229,7 +227,7 @@ Left- and right-handed couplings of dark $Z$ to leptons, measured by a short ded
 
  
 -----
-Left panel: Sensitivity projections for long-lived ALPs with $m_a = 300$~MeV at the ILC and at Belle II, as a function of the couplings $c_{WW}/f_a$ and $c_{ll}/f_a$. Right panel: Sensitivity projections for long-lived ALPs with $m_a = 300$~MeV at the ILC main detector (ILD), and three dedicated far-detector options (Ground, Shaft, and Tunnel). From Ref.~\cite{Schafer:2022shi}. \label{fig:LLPs}}
+Left panel: Sensitivity projections for long-lived ALPs with $m_a = 300$ MeV at the ILC and at Belle II, as a function of the couplings $c_{WW}/f_a$ and $c_{ll}/f_a$. Right panel: Sensitivity projections for long-lived ALPs with $m_a = 300$ MeV at the ILC main detector (ILD), and three dedicated far-detector options (Ground, Shaft, and Tunnel). From Ref. \cite{Schafer:2022shi}. 
  
 [<img src="figures/ILC_vs_Belle_ALP_LLP.png" width="200" />](figures/ILC_vs_Belle_ALP_LLP.pdf)[<img src="figures/Near_vs_Far_LLP.png" width="200" />](figures/Near_vs_Far_LLP.pdf)
 
@@ -239,7 +237,7 @@ Left panel: Sensitivity projections for long-lived ALPs with $m_a = 300$~MeV at 
 
  
 -----
-Efficiency of track reconstruction as a function of the long-lived particle decay length s$_\textrm{LLP}$, for example scenarios with decays of heavy neutral scalar A to lighter heavy scalar H and a pair of muons, for two heavy scalar mass differences of 1\,GeV and 5\,GeV. \label{fig:llp_effi} }
+Efficiency of track reconstruction as a function of the long-lived particle decay length s$_\textrm{LLP}$, for example scenarios with decays of heavy neutral scalar A to lighter heavy scalar H and a pair of muons, for two heavy scalar mass differences of 1\,GeV and 5\,GeV.  
  
 [<img src="figures/trackEffVsL_report.png" width="200" />](figures/trackEffVsL_report.pdf)
 

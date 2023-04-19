@@ -1,7 +1,7 @@
 
  
 -----
- Left: Cross sections for the three major Higgs production processes as a function of center of mass energy~\cite{Baer:2013cma}. The Zh ``Higgs-strahlung'' process dominates at 250~GeV. Right: Recoil mass spectrum against $Z\to\mu^+\mu^-$ for signal $e^+e^-\to Zh$ and SM background at 250 GeV~\cite{Yan:2016xyx}.}
+ Left: Cross sections for the three major Higgs production processes as a function of center of mass energy \cite{Baer:2013cma}. The Zh ``Higgs-strahlung'' process dominates at 250 GeV. Right: Recoil mass spectrum against $Z\to\mu^+\mu^-$ for signal $e^+e^-\to Zh$ and SM background at 250 GeV \cite{Yan:2016xyx}.}
  
 [<img src="figures/xsec_h_ILC_left.png" width="200" />](figures/xsec_h_ILC_left.pdf)[<img src="figures/RecoilMassLep250.png" width="200" />](figures/RecoilMassLep250.pdf)
 
@@ -23,7 +23,7 @@ B-tag (left) and c-tag (right) performance in full-simulation studies of two var
 
  
 -----
-Comparison of signal and backgrounds from ILD full simulation for the measurement of the $\sigma\times BR$ for $H\to b\overline{b}$, for 250~fb$^{-1}$ of ILC data at 250~GeV, from~\cite{Ogawa:2018ssv}.}
+Comparison of signal and backgrounds from ILD full simulation for the measurement of the $\sigma\times BR$ for $H\to b\overline{b}$, for 250 fb$^{-1}$ of ILC data at 250 GeV, from \cite{Ogawa:2018ssv}.}
  
 [<img src="figures/bb250.png" width="200" />](figures/bb250.pdf)
 
@@ -33,7 +33,7 @@ Comparison of signal and backgrounds from ILD full simulation for the measuremen
 
  
 -----
-\label{fig:topo}Representative topologies of the Higgs exotic decays. 
+Representative topologies of the Higgs exotic decays. 
  
 [<img src="figures/topologies.png" width="200" />](figures/topologies.pdf)
 
@@ -41,7 +41,7 @@ Comparison of signal and backgrounds from ILD full simulation for the measuremen
 
  
 -----
-\label{fig:zvvjj2}The 95\ fractions into $jj+\missET$ arising from a decay $H\to X_2X_1$, as described in the text, with $X_1$ a stable particle of mass $m_1$ and $X_2$ higher in mass by  $m_2-m_1$.}
+The 95\ fractions into $jj+\missET$ arising from a decay $H\to X_2X_1$, as described in the text, with $X_1$ a stable particle of mass $m_1$ and $X_2$ higher in mass by  $m_2-m_1$.
  
 [<img src="figures/Br95_jjMET.png" width="200" />](figures/Br95_jjMET.pdf)
 
@@ -57,27 +57,19 @@ Stacked distribution of reconstructed average scalar mass for the signal $e^+e^-
 
  
 -----
-\label{fig:ExoticHiggssummary} The 95\ branching fractions at HL-LHC and ILC, based on Ref~\cite{Liu:2016zki}. The ILC curves are derived using results from Ref~\cite{Liu:2016zki} with leptonic decaying Z boson in the $e^-e^+\rightarrow ZH$ process. The ILC$^*$ scenario further utilizes the hadronically decaying Z boson and includes an estimated (indicative) improvement of 40\ different topology of exotic Higgs decay. For a recent review on current LHC constraints, see Ref.~\cite{Cepeda:2021rql}.}
+ The 95\ branching fractions at HL-LHC and ILC, based on Ref \cite{Liu:2016zki
  
 [<img src="figures/summarybar.png" width="200" />](figures/summarybar.pdf)
 
 - ##### Z. Liu, L.-T. Wang and H. Zhang, Exotic decays of the 125 GeV Higgs boson at future $e^+e^-$ lepton colliders, https://doi.org/10.1088/1674-1137/41/6/063102 Chin. Phys.   C41 (2017) 063102 [https://arxiv.org/abs/1612.09284  1612.09284].  
 
-- ##### Z. Liu, L.-T. Wang and H. Zhang, Exotic decays of the 125 GeV Higgs boson at future $e^+e^-$ lepton colliders, https://doi.org/10.1088/1674-1137/41/6/063102 Chin. Phys.   C41 (2017) 063102 [https://arxiv.org/abs/1612.09284  1612.09284].  
-
-- ##### M. Cepeda, S. Gori, V.M. Outschoorn and J. Shelton, Exotic Higgs Decays,  https://arxiv.org/abs/2111.12751  2111.12751.  
-
 
 
  
 -----
-\label{fig:tgcs_fitJakob:a}\label{fig:tgcs_fitJakob:b}(a) Expected precisions at $\sqrt{s}=250$\, GeV of charged TGCs for different assumptions on the beam polarizations and the integrated luminosity. Note that these appear more pessimistic than in Fig.~\ref{fig:TGC_ILC_allECM} since here only the $\mu \nu qq$ channel is used in a binned three-angle analysis (b) Effect of floating the left-right asymmetry of the the $Zee$ coupling in the fit.  This underlines, first, the importance of independently measuring this this quantity --- not only on the $Z$ pole, but at $250$\,GeV --- and, second, the increased robustness of the fit due to beam polarization, which reduces the dependence on the left-right asymmetry considerably. Both from~\cite{Beyer:2022xyz, List:2022xyz}.
+
  
 [<img src="figures/TGC_pars_2f4f_ALRfix.png" width="200" />](figures/TGC_pars_2f4f_ALRfix.pdf)[<img src="figures/TGC_pars_4f_ALRfree.png" width="200" />](figures/TGC_pars_4f_ALRfree.pdf)
-
-- ##### J. Beyer, Achieving Electroweak Precision at Future Electron-Positron Colliders, Ph.D. thesis, Hamburg U. (in preparation), Hamburg, 2022. \newblock 10.xxxx/PUBDB-2022-xxxxx.  
-
-- ##### J. Beyer and J. List, Interplay of beam polarisation and systematic uncertainties in electroweak precision measurements at future e+e- colliders,  in Proceedings of SPIN Conference, 1, 2022 [https://arxiv.org/abs/2022.01xyz  2022.01xyz].  
 
 
 

@@ -1,7 +1,7 @@
 
  
 -----
-\label{pew:alr-gigaz} \sl Summary of the precision achievable for ILC $Z$-Pole running compared  with LEP/SLC results~\cite{ALEPH:2005ab} for observables and derived quantities that are described in the text.}
+ \sl Summary of the precision achievable for ILC $Z$-Pole running compared  with LEP/SLC results \cite{ALEPH:2005ab
  
 [<img src="figures/zpole-lep.png" width="200" />](figures/zpole-lep.pdf)
 
@@ -35,7 +35,7 @@ Reconstructed distribution of 2-jet invariant mass for the signal $e^+e^-\to\gam
 
  
 -----
-Illustrations of sensitivity to $\mw$. Hadronic mass resolution (left) in semi-leptonic events from full simulation study at $\sqrt{s}=500$~GeV~\cite{Anguiano:2020qpk}. Endpoints and pseudomass methods at $\sqrt{s}=250$~GeV (right).}
+Illustrations of sensitivity to $\mw$. Hadronic mass resolution (left) in semi-leptonic events from full simulation study at $\sqrt{s}=500$ GeV \cite{Anguiano:2020qpk}. Endpoints and pseudomass methods at $\sqrt{s}=250$ GeV (right).}
  
 [<img src="figures/Wmass-Hadronic.png" width="200" />](figures/Wmass-Hadronic.pdf)[<img src="figures/Wmass-Endpoint.png" width="200" />](figures/Wmass-Endpoint.pdf)[<img src="figures/Wmass-Pseudomass.png" width="200" />](figures/Wmass-Pseudomass.pdf)
 

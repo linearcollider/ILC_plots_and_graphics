@@ -1,7 +1,7 @@
 
  
 -----
-top: Regions of stability, metastability, and instability of the SM vacuum, shown as a function of $m_H$ and $m_t$,showing the current best values in the region of metastability. bottom: Renormalization-group evolution of the Higgs quartic coupling to large $Q$ assuming $m_t = 173.1$~GeV (left) and $m_t = 171.0$~GeV (right). From~\cite{Degrassi:2012ry}. 
+top: Regions of stability, metastability, and instability of the SM vacuum, shown as a function of $m_H$ and $m_t$,showing the current best values in the region of metastability. bottom: Renormalization-group evolution of the Higgs quartic coupling to large $Q$ assuming $m_t = 173.1$ GeV (left) and $m_t = 171.0$ GeV (right). From \cite{Degrassi:2012ry}. 
  
 [<img src="figures/deadoraliveG2012.png" width="200" />](figures/deadoraliveG2012.pdf)[<img src="figures/runeff.png" width="200" />](figures/runeff.pdf)[<img src="figures/runeff2.png" width="200" />](figures/runeff2.pdf)
 
