@@ -1,7 +1,7 @@
 
  
 -----
- Left: Cross sections for the three major Higgs production processes as a function of center of mass energy \cite{Baer:2013cma}. The Zh ``Higgs-strahlung'' process dominates at 250 GeV. Right: Recoil mass spectrum against $Z\to\mu^+\mu^-$ for signal $e^+e^-\to Zh$ and SM background at 250 GeV \cite{Yan:2016xyx}.}
+ Left: Cross sections for the three major Higgs production processes as a function of center of mass energy \cite{Baer:2013cma}. The Zh "Higgs-strahlung" process dominates at 250 GeV. Right: Recoil mass spectrum against $Z\to\mu^+\mu^-$ for signal $e^+e^-\to Zh$ and SM background at 250 GeV \cite{Yan:2016xyx}.}
  
 [<img src="figures/xsec_h_ILC_left.png" width="200" />](figures/xsec_h_ILC_left.pdf)[<img src="figures/RecoilMassLep250.png" width="200" />](figures/RecoilMassLep250.pdf)
 

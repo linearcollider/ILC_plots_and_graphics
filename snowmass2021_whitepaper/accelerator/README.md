@@ -121,7 +121,7 @@ An ILC type cryomodule. \copyright Rey.Hori/KEK.
 
  
 -----
-Examples of the $Q_0\,(E\sub{acc})$ curves of some of the best cavities, either treated at RI using ``EP final'', or at EZ using ``BCP flash.'' \cite[Fig. 19]{Singer:2016fbf}. RI employs a production process that closely follows the ILC specifications, with a final electropolishing step. The ILC gradient / $Q_0$ goals are overlaid.}
+Examples of the $Q_0\,(E\sub{acc})$ curves of some of the best cavities, either treated at RI using "EP final", or at EZ using "BCP flash." \cite[Fig. 19]{Singer:2016fbf}. RI employs a production process that closely follows the ILC specifications, with a final electropolishing step. The ILC gradient / $Q_0$ goals are overlaid.}
  
 [<img src="figures/prab-19-092001-fig19-mod.png" width="200" />](figures/prab-19-092001-fig19-mod.pdf)
 
@@ -131,7 +131,7 @@ Examples of the $Q_0\,(E\sub{acc})$ curves of some of the best cavities, either 
 
  
 -----
-Distribution and yield of the ``as received'' maximum gradient of cavities produced for the European XFEL, separated by vendor \cite[Fig. 33]{Reschke:2017gjp}. Vendor RI employs a production process that closely follows the ILC specifications, with a final electro polishing step.}
+Distribution and yield of the "as received" maximum gradient of cavities produced for the European XFEL, separated by vendor \cite[Fig. 33]{Reschke:2017gjp}. Vendor RI employs a production process that closely follows the ILC specifications, with a final electro polishing step.}
  
 [<img src="figures/prab-20-042004-fig33.png" width="200" />](figures/prab-20-042004-fig33.pdf)
 
@@ -201,7 +201,7 @@ Cross section through the Main Linac tunnel.
 
  
 -----
-Cryogenic layout for a gradient of \siunit{31.5}{MV/m} (top) and \siunit{35}{MV/m} (bottom) \cite{Evans:2017rvt}. ``Module space'' indicates how many cryomodules can be physically installed, ``cryomodules'' and ``RF unit'' indicates the number of actually installed modules and klystrons (one klystron per 4.5 cryomodules). ``E gain'' indicates the energy gain in GeV. ``BC'', ``ML'', ``e+ inj'', ``e- inj'' and ``UND'' refer to the sections with need for liquid helium: bunch compressor, main linac, 5GeV boosters in the positron and electron source, and the positron source undulator section, respectively. PM$\pm8, 10, 12$ refer to access hall locations, ``C'' to cryo plants; meter numbers on top indicate the length of the corresponding section.}
+Cryogenic layout for a gradient of \siunit{31.5}{MV/m} (top) and \siunit{35}{MV/m} (bottom) \cite{Evans:2017rvt}. "Module space" indicates how many cryomodules can be physically installed, "cryomodules" and "RF unit" indicates the number of actually installed modules and klystrons (one klystron per 4.5 cryomodules). "E gain" indicates the energy gain in GeV. "BC", "ML", "e+ inj", "e- inj" and "UND" refer to the sections with need for liquid helium: bunch compressor, main linac, 5GeV boosters in the positron and electron source, and the positron source undulator section, respectively. PM$\pm8, 10, 12$ refer to access hall locations, "C" to cryo plants; meter numbers on top indicate the length of the corresponding section.}
  
 [<img src="figures/arxiv-1711-00568-fig-3-4.png" width="200" />](figures/arxiv-1711-00568-fig-3-4.pdf)[<img src="figures/arxiv-1711-00568-fig-3-7.png" width="200" />](figures/arxiv-1711-00568-fig-3-7.pdf)
 
