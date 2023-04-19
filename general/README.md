@@ -56,8 +56,14 @@
 
 ## graphics by rey.hori
 
+- accelerator, facilities, detectors (mostly but not all ILC)
+
 http://www.yk.rim.or.jp/~reyhori/pages/galacc_e.html
+
 http://www.yk.rim.or.jp/~reyhori/pages/galacc2_e.html
+
 http://www.yk.rim.or.jp/~reyhori/pages/galacc3_e.html
+
 http://www.yk.rim.or.jp/~reyhori/pages/galacc4_e.html
+
 http://www.yk.rim.or.jp/~reyhori/pages/galacc5_e.html
