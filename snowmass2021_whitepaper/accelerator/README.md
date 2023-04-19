@@ -43,67 +43,67 @@ F. He et al., Medium-temperature furnace bake of Superconducting Radio-Frequency
 
 
 - A $1.3\,{\mathrm{GHz}}$ superconducting niobium nine-cell cavity. }
-<img src="figures/tesla9cell-cavity-2.pdf" width="200" /> 
+<img src="figures/tesla9cell-cavity-2.png" width="200" /> 
 
 
 - An ILC type cryomodule. \copyright Rey.Hori/KEK.
-<img src="figures/10_ILC_cryomodule.pdf" width="200" /> 
+<img src="figures/10_ILC_cryomodule.png" width="200" /> 
 
 
 - Examples of the $Q_0\,(E\sub{acc})$ curves of some of the best cavities, either treated at RI using ``EP final'', or at EZ using ``BCP flash.'' \cite[Fig. 19]{Singer:2016fbf}. RI employs a production process that closely follows the ILC specifications, with a final electropolishing step. The ILC gradient / $Q_0$ goals are overlaid.}
-<img src="figures/prab-19-092001-fig19-mod.pdf" width="200" /> 
+<img src="figures/prab-19-092001-fig19-mod.png" width="200" /> 
 W. Singer et al., Production of superconducting 1.3 GHz cavities for the European X-ray Free Electron Laser, https://doi.org/10.1103/PhysRevAccelBeams.19.092001 Phys. Rev. Accel. Beams   19 (2016) 092001.  
 
 
 - Distribution and yield of the ``as received'' maximum gradient of cavities produced for the European XFEL, separated by vendor \cite[Fig. 33]{Reschke:2017gjp}. Vendor RI employs a production process that closely follows the ILC specifications, with a final electro polishing step.}
-<img src="figures/prab-20-042004-fig33.pdf" width="200" /> 
+<img src="figures/prab-20-042004-fig33.png" width="200" /> 
 D. Reschke et al., Performance in the vertical test of the 832 nine-cell 1.3 GHz cavities for the European X-ray Free Electron Laser, https://doi.org/10.1103/PhysRevAccelBeams.20.042004 Phys. Rev. Accel. Beams   20 (2017) 042004.  
 
 
 - An European XFEL type coupler.  }
-<img src="figures/xfelcoupler.pdf" width="200" /> 
+<img src="figures/xfelcoupler.png" width="200" /> 
 
 
 - View of installed cryomodules in the tunnel of the European XFEL~\cite{Reschke:2018ywk}. }
-<img src="figures/srf17-moxa02-fig1.pdf" width="200" /> 
+<img src="figures/srf17-moxa02-fig1.png" width="200" /> 
 D. Reschke, W. Decking, N. Walker and H. Weise, The commissioning of the European XFEL Linac and its performance,  in Proceedings, 18th International Conference on RF Superconductivity (SRF2017): Lanzhou, China, Jul 17--21, 2017, pp. 1--5 (MOXA02), 2018, https://doi.org/10.18429/JACoW-SRF2017-MOXA02 DOI.  
 
 
 - Average of the operating (blue) and maximum (green) gradient for cavities in each European XFEL serial-production cryomodule. The specification of \siunit{23.6}{MV/m} is marked by a red line \cite{Kasprzak:2018kkr}.  Modules 98 and 99 were assembled from the lowest-performing cavities.}
-<img src="figures/srf17-mopb106-fig1.pdf" width="200" /> 
+<img src="figures/srf17-mopb106-fig1.png" width="200" /> 
 K. Kasprzak et al., Test Results of the European XFEL Serial-production Accelerator Modules,  in Proceedings, 18th International Conference on RF Superconductivity (SRF2017), Lanzhou, China, July 17-21, 2017, pp. 312--316 (MOPB106), 2018, https://doi.org/10.18429/JACoW-SRF2017-MOPB106 DOI.  
 
 
 - Electron phase  profile of an \siunit{800}{MHz} klystron employing the Core Oscillation Method (COM)~\cite{Constable:2017hha}. }
-<img src="figures/eefact16-wet3ah2-fig1.pdf" width="200" /> 
+<img src="figures/eefact16-wet3ah2-fig1.png" width="200" /> 
 D. Constable et al., High efficiency klystron development for particle accelerators,  in Proceedings, 58th ICFA Advanced Beam Dynamics Workshop on High Luminosity Circular $e^+ e^-$ Colliders (eeFACT2016), Daresbury, UK, Oct 24--27, 2016, pp. 185--187 (WET3AH2), 2017, https://doi.org/10.18429/JACoW-eeFACT2016-WET3AH2 DOI.  
 
 
 - Artist's rendition of the ILC Main Linac tunnel. The shield wall in the middle has been removed. \copyright Rey.Hori/KEK.}
-<img src="figures/ILC2016_tunnel_A1_160826-low4.pdf" width="200" /> 
+<img src="figures/ILC2016_tunnel_A1_160826-low4.png" width="200" /> 
 
 
 - Cross section through the Main Linac tunnel.
-<img src="figures/ML-cross-section.pdf" width="200" /> 
+<img src="figures/ML-cross-section.png" width="200" /> 
 
 
 - Cryogenic layout for a gradient of \siunit{31.5}{MV/m} (top) and \siunit{35}{MV/m} (bottom)~\cite{Evans:2017rvt}. ``Module space'' indicates how many cryomodules can be physically installed, ``cryomodules'' and ``RF unit'' indicates the number of actually installed modules and klystrons (one klystron per 4.5 cryomodules). ``E gain'' indicates the energy gain in GeV. ``BC'', ``ML'', ``e+ inj'', ``e- inj'' and ``UND'' refer to the sections with need for liquid helium: bunch compressor, main linac, 5GeV boosters in the positron and electron source, and the positron source undulator section, respectively. PM$\pm8, 10, 12$ refer to access hall locations, ``C'' to cryo plants; meter numbers on top indicate the length of the corresponding section.}
-<img src="figures/arxiv-1711-00568-fig-3-4.pdf" width="200" /> 
-<img src="figures/arxiv-1711-00568-fig-3-7.pdf" width="200" /> 
+<img src="figures/arxiv-1711-00568-fig-3-4.png" width="200" /> 
+<img src="figures/arxiv-1711-00568-fig-3-7.png" width="200" /> 
  Linear Collider Collaboration collaboration, The International Linear Collider Machine Staging Report 2017, https://arxiv.org/abs/1711.00568  1711.00568.  
 
 
 - Beamsizes achieved at the Accelerator Test Facility 2 (ATF2) as a function of time~\cite{bib:atf2esu}. The latest result (\siunit{41}{nm}~\cite{Okugi:2017jji}) is within $10\,\ \label{fig:atf-results}
-<img src="figures/ATF2trend2018.pdf" width="200" /> 
+<img src="figures/ATF2trend2018.png" width="200" /> 
 A. Latina and A. Faus-Golfe, ``ATF2.'' Input paper for European Strategy for Particle Physics Update, 2018.  
 
 
 -  \includegraphics[width=\hsize]{chapters/accelerator/figures/Kitakami_Geology}Geological situation at the Kitakami site.
-<img src="figures/Kitakami_Geology.pdf" width="200" /> 
+<img src="figures/Kitakami_Geology.png" width="200" /> 
 
 
 - The Kitakami candidate site for the ILC~\cite{Warmbein:2014a}.
-<img src="figures/ILC-Candidate-Area2.pdf" width="200" /> 
+<img src="figures/ILC-Candidate-Area2.png" width="200" /> 
 B. Warmbein, ``The road to Kitakami.'' ILC Newsline Feb. 20, 2014,  http://newsline.linearcollider.org/2014/02/20/the-road-to-kitakami/, 2014.  
 
 
