@@ -54,3 +54,10 @@
 ![.C](figures/powerlumi_vs_logE.C)
 <img src="figures/powerlumi_vs_logE.png" width="200" />
 
+## graphics by rey.hori
+
+http://www.yk.rim.or.jp/~reyhori/pages/galacc_e.html
+http://www.yk.rim.or.jp/~reyhori/pages/galacc2_e.html
+http://www.yk.rim.or.jp/~reyhori/pages/galacc3_e.html
+http://www.yk.rim.or.jp/~reyhori/pages/galacc4_e.html
+http://www.yk.rim.or.jp/~reyhori/pages/galacc5_e.html
