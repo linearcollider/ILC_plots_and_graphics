@@ -9,8 +9,8 @@ K. Asai, S. Iwamoto, Y. Sakaki and D. Ueda, New physics searches at the ILC posi
 
 
 - Reach of the ILC search for dark photon decaying invisibly to a pair of stable dark matter particles. For comparison, the current constraints (shaded) and reach of proposed BDX and LDMX experiments are also shown. Blue lines indicate the parameters where the DM thermal relic density matches the observed value. \label{fig:InvisibleAPrime}}
-<img src="figures/ele_ele_1_daiki.pdf" width="200" /> 
-<img src="figures/pos_ele_1_daiki.pdf" width="200" /> 
+<img src="figures/ele_ele_1_daiki.png" width="200" /> 
+<img src="figures/pos_ele_1_daiki.png" width="200" /> 
 
 
 - Sensitivity of the ILC version of the LUXE-NPOD experiment~\cite{Bai:2021dgm} searching for scalar and axion-like particles that couples to photons.  The sensitivity is expressed in terms of parameters $\Lambda_a$ and $\Lambda_\phi$ defined in eq. \leqn{LforALPs}.}

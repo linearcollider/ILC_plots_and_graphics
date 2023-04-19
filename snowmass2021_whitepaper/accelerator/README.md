@@ -1,45 +1,45 @@
 - Steady progress in single and multi-cell cavity gradients over 3+ decades \cite{Yamamoto:2019}.
-<img src="figures/SRFprogress.pdf" width="200" /> 
+<img src="figures/SRFprogress.png" width="200" /> 
 A. Yamamoto in ESPP Symposium 2019, 2019.  
 
 
 - 9-cell test results from DESY on $> 40$ cavities produced and treated by Research Instruments (RI) \cite{Pekeler:2016}.
-<img src="figures/DESYresults.pdf" width="200" /> 
+<img src="figures/DESYresults.png" width="200" /> 
 M. Pekeler, Superconducting RF Cavity System Production for Particle Accelerators in Scientific and Industrial Applications,  in Proceedings of ICHEP 2016, 2016.  
 
 
 -  (a) Q = $5\times 10^{10}$ at 30 MV/m by baking at 300~C to dissolve the natural oxide (and other surface layers) into the bulk, but not exposing the cavity to air or water before RF measurements; (b) IHEP (China) results on mid-T baking for 9-cell cavities compared to results on the same cavities with the standard ILC treatment~\cite{He:2020ptd}; (c) 300~C baking results from KEK on single cell cavities after high pressure water rinsing.  Standard ILC treatment results are also included.
-<img src="figures/Qresults.pdf" width="200" /> 
-<img src="figures/Qresults-partc.pdf" width="200" /> 
+<img src="figures/Qresults.png" width="200" /> 
+<img src="figures/Qresults-partc.png" width="200" /> 
 F. He et al., Medium-temperature furnace bake of Superconducting Radio-Frequency cavities at IHEP, https://arxiv.org/abs/2012.04817  2012.04817.  
 
 
 - Comparison of the performance of several 1-cell cavities from N-infusion with cavities prepared by the standard ILC recipe of EP and 120~C baking.
-<img src="figures/Qcomparison.pdf" width="200" /> 
+<img src="figures/Qcomparison.png" width="200" /> 
 
 
 -  (a):  $Q$ vs. $E$ curve of 1-cell cavity reaching 49 MV/m from Cold EP/optimized baking (75/120~C) compared to the curve of a cavity prepared by the standard ILC recipe. (b) Histogram of gradients of a large number of single cell cavities prepared by Cold EP/optimized baking (75/120~C). 
-<img src="figures/Gradients-1.pdf" width="200" /> 
+<img src="figures/Gradients-1.png" width="200" /> 
 
 
 -  (a) Gradients greater than 50~MV/m demonstrated in single cell cavities of various improved shapes. (b) Comparison of RE (top), LL/ICHIRO (middle) and TESLA (bottom) cavity cell shapes.  Here,  color is magnetic field intensity, red highest, blue lowest.   (c) Record gradient near 59~MV/m demonstrated with the RE shape (60~mm aperture).
-<img src="figures/HighGradients.pdf" width="200" /> 
+<img src="figures/HighGradients.png" width="200" /> 
 
 
 - The TW structure compared to the one-meter standing-wave ILC structure.
-<img src="figures/TWvsCurrent.pdf" width="200" /> 
+<img src="figures/TWvsCurrent.png" width="200" /> 
 
 
 -  (a) 1-cell TW Niobium structure with return waveguide, treated by BCP and tested to reach 26 MV/m. (b) 3-cell TW structure built but not yet tested.
-<img src="figures/TWstructures.pdf" width="200" /> 
+<img src="figures/TWstructures.png" width="200" /> 
 
 
 - (a) Record CW behavior for Nb$_3$Sn coated with the solid state diffusion method at Fermilab showed $E_{acc}$ =  23 MV/m.  Excellent performance was obtained by making a smooth thin film about 1~$\mu$m. (b) Measurements of the critical RF field of Nb$_3$Sn using high power pulsed RF.  The high temperature results extrapolate to a maximum surface magnetic field of 300 mT, which would translate to $E_{acc}$ = 85 MV/m for a Low-Loss shape cavity.
-<img src="figures/Nb3Sn.pdf" width="200" /> 
+<img src="figures/Nb3Sn.png" width="200" /> 
 
 
 - Schematic layout of the ILC in the $250\,{\mathrm{GeV}}$ staged configuration. \label{fig:ilc-schematic}}
-<img src="figures/TDR-machine-layout-cartoon-staged-mirror-500and250.pdf" width="200" /> 
+<img src="figures/TDR-machine-layout-cartoon-staged-mirror-500and250.png" width="200" /> 
 
 
 - A $1.3\,{\mathrm{GHz}}$ superconducting niobium nine-cell cavity. }
@@ -128,20 +128,20 @@ B. Warmbein, ``The road to Kitakami.'' ILC Newsline Feb. 20, 2014,  http://newsl
 
 
 - Breakdown of Value costs into accelerator systems (left) and technical systems (right) for the \siunit{250}{GeV} ILC accelerator, assuming that cost reduction measures are successful and a gradient of \siunit{35}{MV/m} can be reached. \label{fig:costs}}
-<img src="figures/costs-as.pdf" width="200" /> 
-<img src="figures/costs-ts.pdf" width="200" /> 
+<img src="figures/costs-as.png" width="200" /> 
+<img src="figures/costs-ts.png" width="200" /> 
 
 
 - Summary of the Work Packages for the technical preparations that will be carried out during the ILC Pre-Lab period.}
-<img src="figures/WPsV3.pdf" width="200" /> 
+<img src="figures/WPsV3.png" width="200" /> 
 
 
 - Cutaway view of an ILC cryomodule.  (Image by Rey Hori \cite{HoriCryo}.)
-<img src="figures/ILCCryomodule.pdf" width="200" /> 
+<img src="figures/ILCCryomodule.png" width="200" /> 
 R. Hori.  http://www.yk.rim.or.jp/ reyhori/pages/galacc4_e.htm, 2017.  
 
 
 - View of some of the cryomodule assembly facilities at Fermilab (left) and Jefferson Lab (right).
-<img src="figures/CryoInstallation.pdf" width="200" /> 
+<img src="figures/CryoInstallation.png" width="200" /> 
 
 
