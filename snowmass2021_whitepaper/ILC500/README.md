@@ -31,15 +31,23 @@ A simulated top quark threshold scan with a total integrated luminosity of 200 f
 
  
 -----
-Comparison of current 95\ 
+Comparison of current 95\% CL bounds on the coefficients of the two-fermion SMEFT operators  that affect the top and bottom quark EW couplings and the four-fermion operators $q\bar{q}t\bar{t}$. The LHC bounds correspond to the results of Ref. \cite{Miralles:2021dyw}, the HL-LHC S2 projection follows Ref. \cite{Durieux:2019rbz} and the HL-LHC Higgs report \cite{Cepeda:2019klc}, while the ILC prospects are based on Ref. \cite{Durieux:2018tev}.  Bars with dark shading show constraints on individual couplings considered separately,  while bars with light shading show constraints from a global fit to the full set of operators.
  
 [<img src="figures/Prospects_Linear_S2_ILC250_ILC500.png" width="200" />](figures/Prospects_Linear_S2_ILC250_ILC500.pdf)
+
+- ##### V. Miralles, M.M. L\'opez, M.M. Ll\'acer, A. Pe\ nuelas, M. Perell\'o and M. Vos, The top quark electro-weak couplings after LHC Run 2, https://arxiv.org/abs/2107.13917  2107.13917.  
+
+- ##### G. Durieux, A. Irles, V. Miralles, A. Pe\ nuelas, R. P\"oschl, M. Perell\'o et al., The electro-weak couplings of the top and bottom quarks -- Global fit and future prospects, https://doi.org/10.1007/JHEP12(2019)098 JHEP   12 (2019) 98 [https://arxiv.org/abs/1907.10619  1907.10619].  
+
+- ##### M. Cepeda et al., Report from Working Group 2: Higgs Physics at the HL-LHC and HE-LHC, https://doi.org/10.23731/CYRM-2019-007.221 CERN Yellow Rep. Monogr.   7 (2019) 221 [https://arxiv.org/abs/1902.00134  1902.00134].  
+
+- ##### G. Durieux, M. Perell\'o, M. Vos and C. Zhang, Global and optimal probes for the top-quark effective field theory at future lepton colliders, https://doi.org/10.1007/JHEP10(2018)168 JHEP   10 (2018) 168 [https://arxiv.org/abs/1807.02121  1807.02121].  
 
 
 
  
 -----
- \centering \includegraphics{chapters/ILC500/figures/limits_full_ilc_H-3.pdf}The projected 95\ 
+The projected 95\% C.L. bounds on the EFT operator coefficients that give rise to the FCNC $e^+e^- \rightarrow tq$ production process. The bounds are given in units of TeV$^{-2}$ for the LHC run 2 (dark red arrows), for the HL-LHC (purple arrows) and for the three nominal ILC stages: 250 GeV (green bars), 500 GeV (orange bars) and 1 TeV (blue bars). The round markers of the same color represent the expected bounds without beam polarization. 
  
 [<img src="figures/limits_full_ilc_H-3.png" width="200" />](figures/limits_full_ilc_H-3.pdf)
 
@@ -47,7 +55,7 @@ Comparison of current 95\
 
  
 -----
- \begin{center} \includegraphics[width=0.70\hsize]{chapters/ILC500/figures/crosssec_selfcoupling_other3_2.pdf} \end{center}Cross-sections for double Higgs production in the SM via Higgs-strahlung and $WW$ fusion as a function of the center-of-mass energy \cite{Durig:2016jrs}.
+Cross-sections for double Higgs production in the SM via Higgs-strahlung and $WW$ fusion as a function of the center-of-mass energy \cite{Durig:2016jrs}.
  
 [<img src="figures/crosssec_selfcoupling_other3_2.png" width="200" />](figures/crosssec_selfcoupling_other3_2.pdf)
 

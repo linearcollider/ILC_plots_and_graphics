@@ -21,15 +21,17 @@ Composite Higgs reach from Higgs boson, top quark and Drell-Yan studies taken fr
 
  
 -----
-Reach of direct searches for Dark Matter. Left panel: 95\
+Reach of direct searches for Dark Matter. Left panel: 95\% excluded masses for new electroweak $n$-plet states with hypercharge $Y$. The exclusion results for each state denoted by (1,n,$Y$) at CLIC Stage2 and Stage3 are presented in green and yellow bar \cite{DiLuzio:2018jwd}. Right panel: 95\% excluded region for pure Higgsino in the mass-lifetime plane. The black dashed line denotes the lifetime of a pure Higgsino. The green, yellow and blue areas correspond to 3 TeV, 1.5 TeV and 380 GeV CLIC expected exclusions, respectively.
  
 [<img src="figures/DMinLoops.png" width="200" />](figures/DMinLoops.pdf)[<img src="figures/higgsinoOLDlumi1stub.png" width="200" />](figures/higgsinoOLDlumi1stub.pdf)
+
+- ##### L. Di Luzio, R. Gr\"ober and G. Panico, Probing new electroweak states via precision measurements at the LHC and future colliders, https://doi.org/10.1007/JHEP01(2019)011 JHEP   01 (2019) 011 [https://arxiv.org/abs/1810.10993  1810.10993].  
 
 
 
  
 -----
- \centering \includegraphics[scale=0.3,clip]{chapters/farfuture/figures/CLIC_wino.pdf} \includegraphics[scale=0.3,clip]{chapters/farfuture/figures/CLIC_higgsino.pdf}Event rates and exclusions for the wino and higgsino signal in the lifetime vs. mass plane. Orange: darker region corresponds to $N > 30$ events in the CLIC acceptance, lighter orange regions corresponds to $N > 3$ events and correspond to a projected 95\ background. The left (right) panel refers to the RPV wino (higgsino) signal. Blue region: the recasted current and HL-LHC (3 $\rm ab^{-1}$) projected 95\ 
+Event rates and exclusions for the wino and higgsino signal in the lifetime vs. mass plane. Orange: darker region corresponds to $N > 30$ events in the CLIC acceptance, lighter orange regions corresponds to $N > 3$ events and correspond to a projected 95\% C.L. exclusion limit for zero expected background. The left (right) panel refers to the RPV wino (higgsino) signal. Blue region: the recasted current and HL-LHC (3 $\rm ab^{-1}$) projected 95\% C.L. exclusion limit as the function of Wino mass and its lifetime.}
  
 [<img src="figures/CLIC_wino.png" width="200" />](figures/CLIC_wino.pdf)[<img src="figures/CLIC_higgsino.png" width="200" />](figures/CLIC_higgsino.pdf)
 
@@ -37,7 +39,7 @@ Reach of direct searches for Dark Matter. Left panel: 95\
 
  
 -----
- \centering \includegraphics[scale=0.4,clip]{chapters/farfuture/figures/CLIC_hportal.pdf}Blue line: HL-LHC projected 95\ 
+Blue line: HL-LHC projected 95\% C.L. exclusion limit for the Higgs portal singlet model as the function of $c\tau_\chi$ for $m_\chi=30$ GeV. Orange line: projection for CLIC with the same model.
  
 [<img src="figures/CLIC_hportal.png" width="200" />](figures/CLIC_hportal.pdf)
 

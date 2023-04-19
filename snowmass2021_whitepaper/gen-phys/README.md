@@ -1,7 +1,7 @@
 
  
 -----
-Cross sections of the most important Standard Model processes in $\ee$ annihilation in the energy range of the ILC.  Initial state radiation is included, and cross section are plotted for reactions in which the annihilation retains $>90\ not-so-subtle differences.}
+Cross sections of the most important Standard Model processes in $\ee$ annihilation in the energy range of the ILC.  Initial state radiation is included, and cross section are plotted for reactions in which the annihilation retains $>90\%$ of the nominal CM energy.  The cross sections are shown for predominantly left-handed beam polarization ($-80\% /+30\%$ for $e^-/e^+$) (top) and for  predominantly right-handed beam polarization ($+80\% /-30\%$) (bottom).  It is instructive to compare the two plots, which have subtle and not-so-subtle differences.}
  
 [<img src="figures/ILC_m80_p30.png" width="200" />](figures/ILC_m80_p30.pdf)[<img src="figures/ILC_p80_m30.png" width="200" />](figures/ILC_p80_m30.pdf)
 

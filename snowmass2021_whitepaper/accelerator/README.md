@@ -187,7 +187,7 @@ Cryogenic layout for a gradient of \siunit{31.5}{MV/m} (top) and \siunit{35}{MV/
 
  
 -----
-Beamsizes achieved at the Accelerator Test Facility 2 (ATF2) as a function of time \cite{bib:atf2esu}. The latest result (\siunit{41}{nm} \cite{Okugi:2017jji}) is within $10\,\ 
+Beamsizes achieved at the Accelerator Test Facility 2 (ATF2) as a function of time \cite{bib:atf2esu}. The latest result (\siunit{41}{nm} \cite{Okugi:2017jji}) is within $10\,\%$ of the goal beam size of \siunit{37}{nm}.
  
 [<img src="figures/ATF2trend2018.png" width="200" />](figures/ATF2trend2018.png)
 
@@ -199,7 +199,7 @@ Beamsizes achieved at the Accelerator Test Facility 2 (ATF2) as a function of ti
 
  
 -----
- \includegraphics[width=\hsize]{chapters/accelerator/figures/Kitakami_Geology}Geological situation at the Kitakami site.
+Geological situation at the Kitakami site.
  
 [<img src="figures/Kitakami_Geology.png" width="200" />](figures/Kitakami_Geology.pdf)
 

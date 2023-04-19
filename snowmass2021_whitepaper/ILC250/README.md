@@ -41,7 +41,7 @@ Representative topologies of the Higgs exotic decays.
 
  
 -----
-The 95\ fractions into $jj+\missET$ arising from a decay $H\to X_2X_1$, as described in the text, with $X_1$ a stable particle of mass $m_1$ and $X_2$ higher in mass by  $m_2-m_1$.
+The 95\% C.L. upper limit on the Higgs exotic decay branching fractions into $jj+\missET$ arising from a decay $H\to X_2X_1$, as described in the text, with $X_1$ a stable particle of mass $m_1$ and $X_2$ higher in mass by  $m_2-m_1$.
  
 [<img src="figures/Br95_jjMET.png" width="200" />](figures/Br95_jjMET.pdf)
 
@@ -57,7 +57,7 @@ Stacked distribution of reconstructed average scalar mass for the signal $e^+e^-
 
  
 -----
- The 95\ branching fractions at HL-LHC and ILC, based on Ref \cite{Liu:2016zki
+ The 95\% C.L. upper limit on selected Higgs exotic decay branching fractions at HL-LHC and ILC, based on Ref \cite{Liu:2016zki
  
 [<img src="figures/summarybar.png" width="200" />](figures/summarybar.pdf)
 
