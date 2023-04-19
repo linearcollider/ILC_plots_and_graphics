@@ -56,7 +56,7 @@
 
 ## graphics by rey.hori
 
-- accelerator, facilities, detectors (mostly but not all ILC)
+- accelerator, facilities, detectors (all ©Rey.Hori)
 
 http://www.yk.rim.or.jp/~reyhori/pages/galacc_e.html
 
