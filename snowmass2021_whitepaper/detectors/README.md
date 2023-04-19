@@ -48,7 +48,7 @@
 
 - Left: Picture of the surface of a GaAs sensor. The aluminum traces are positioned between the pads, on the top of the passivation layer, Right: The leakage current of a pad as a function of the bias voltage, measured at $20^\circ$C.
 <img src="figures/ECAL_traces_detail.png" width="200" /> 
-<img src="figures/ECAL_GaAs_leakage" width="200" /> 
+<img src="figures/ECAL_GaAs_leakage.jpg" width="200" /> 
 
 
 - Distribution of signals measured with the GaAs pad sensors in an electron beam of 5~GeV.
