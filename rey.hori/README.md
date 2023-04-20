@@ -86,7 +86,7 @@ all images ©Rey.Hori are linked from http://www.yk.rim.or.jp/~reyhori/
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200518.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200518.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200519.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200519.jpg)
 
-### accel 
+### accelerator
 
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201112.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201112.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201141.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201141.jpg)
