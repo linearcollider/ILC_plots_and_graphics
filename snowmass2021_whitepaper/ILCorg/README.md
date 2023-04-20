@@ -1,4 +1,6 @@
+This is a collection of figures from Chapter 3 "Route to the ILC" of "A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021" https://arxiv.org/abs/2203.07622
 
+Some captions may be mangled due to imperfect .tex -> .mk conversion: check the above paper for the definitive version.
  
 -----
 The current organization of the IDT WG2.
