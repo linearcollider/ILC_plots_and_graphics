@@ -1,4 +1,6 @@
+This is a collection of figures from Chapter 6 "ILC Detectors" of "A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021" https://arxiv.org/abs/2203.07622
 
+Some captions may be mangled due to imperfect .tex -> .mk conversion: check the above paper for the definitive version.
  
 -----
 Left: Three-dimensional rendering of the ILD detector. Right: Event display of a simulated hadronic decay of a $t \bar t$ event in ILD. The colors of the tracks show the results of the reconstruction, each color corresponding to a reconstructed particle. 
