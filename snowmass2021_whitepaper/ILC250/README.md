@@ -1,4 +1,6 @@
+This is a collection of figures from Chapter 8 "ILC Physics Measurements at 250 GeV" of "A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021" https://arxiv.org/abs/2203.07622
 
+Some captions may be mangled due to imperfect .tex -> .mk conversion: check the above paper for the definitive version.
  
 -----
  Left: Cross sections for the three major Higgs production processes as a function of center of mass energy \cite{Baer:2013cma}. The Zh "Higgs-strahlung" process dominates at 250 GeV. Right: Recoil mass spectrum against $Z\to\mu^+\mu^-$ for signal $e^+e^-\to Zh$ and SM background at 250 GeV \cite{Yan:2016xyx}.}
