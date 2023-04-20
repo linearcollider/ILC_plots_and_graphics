@@ -1,4 +1,6 @@
+This is a collection of figures from Chapter 13 "Big Physics Questions Addressed by ILC" of "A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021" https://arxiv.org/abs/2203.07622
 
+Some captions may be mangled due to imperfect .tex -> .mk conversion: check the above paper for the definitive version.
  
 -----
 top: Regions of stability, metastability, and instability of the SM vacuum, shown as a function of $m_H$ and $m_t$,showing the current best values in the region of metastability. bottom: Renormalization-group evolution of the Higgs quartic coupling to large $Q$ assuming $m_t = 173.1$ GeV (left) and $m_t = 171.0$ GeV (right). From \cite{Degrassi:2012ry}. 
