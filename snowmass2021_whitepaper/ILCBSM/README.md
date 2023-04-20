@@ -1,4 +1,6 @@
+This is a collection of figures from Chapter 14 "ILC and Models of Physics Beyond the Standard Model" of "A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021" https://arxiv.org/abs/2203.07622
 
+Some captions may be mangled due to imperfect .tex -> .mk conversion: check the above paper for the definitive version.
  
 -----
 Scans over the parameter set of the MSSM giving models that account for the current discrepancy between the observed value of the muon $g-2$ and the consensus SM prediction, from \cite{Chakraborti:2021mbr}.   Left: Higgsino LSP; Right: Wino LSP. Other scenarios are described in the text.  Color encodes the predicted value of the LSP dark matter density, with green indicating a higher value.}
