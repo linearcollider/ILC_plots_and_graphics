@@ -1,7 +1,6 @@
 ## collection of ILC-related plots by rey.hori
 
-http://www.yk.rim.or.jp/~reyhori/
-
+all images ©Rey.Hori are linked from http://www.yk.rim.or.jp/~reyhori/
 
 ### detector
 
@@ -86,11 +85,6 @@ http://www.yk.rim.or.jp/~reyhori/
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200517.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200517.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200518.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200518.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200519.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200519.jpg)
-
-
-
-
-
 
 ### accel 
 
