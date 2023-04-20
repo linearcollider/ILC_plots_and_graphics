@@ -1,4 +1,6 @@
+This is a collection of figures from Chapter 4 "ILC Accelerator" of "A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021" https://arxiv.org/abs/2203.07622
 
+Some captions may be mangled due to imperfect .tex -> .mk conversion: check the above paper for the definitive version.
  
 -----
 Steady progress in single and multi-cell cavity gradients over 3+ decades \cite{Yamamoto:2019}.
