@@ -1,4 +1,6 @@
+This is a collection of figures from Chapter 15 "Long-Term Future of the ILC Laboratory" of "A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021" https://arxiv.org/abs/2203.07622
 
+Some captions may be mangled due to imperfect .tex -> .mk conversion: check the above paper for the definitive version.
  
 -----
 Left: Cross section of the two leading diHiggs production modes in a lepton collider as a function of the center-of-mass energy. Right: Dependence of the signal strengths on the trilinear coupling of the Higgs with the horizontal bands showing the estimated sensitivities.
