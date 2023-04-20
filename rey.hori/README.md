@@ -3,6 +3,37 @@
 http://www.yk.rim.or.jp/~reyhori/
 
 
+### detector
+
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201138.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201138.jpg)
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201139.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201139.jpg)
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201146.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201146.jpg)
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201149.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201149.jpg)
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201150.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201150.jpg)
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201151.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201151.jpg)
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201152.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201152.jpg)
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201153.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201153.jpg)
+
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201154.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201154.jpg)
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201319.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201319.jpg)
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201202.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201202.jpg)
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201206.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201206.jpg)
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201237.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201237.jpg)
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201238.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201238.jpg)
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201239.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201239.jpg)
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201240.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201240.jpg)
+
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201241.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201241.jpg)
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201703.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201703.jpg)
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201705.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201705.jpg)
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201725.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201725.jpg)
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb4/201801.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works4/201801.jpg)
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200613.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200613.jpg)
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201711.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201711.jpg)
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201713.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201713.jpg)
+
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200412.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200412.jpg)
+
 ### facility 
 
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201140.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201140.jpg)
@@ -21,8 +52,8 @@ http://www.yk.rim.or.jp/~reyhori/
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201616.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201616.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201617.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201617.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201424.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201424.jpg)
-
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201425.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201425.jpg)
+
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb4/201808.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works4/201808.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb4/201809.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works4/201809.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201717.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201717.jpg)
@@ -30,8 +61,8 @@ http://www.yk.rim.or.jp/~reyhori/
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201620.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201620.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201621.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201621.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201623.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201623.jpg)
-
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201624.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201624.jpg)
+
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201516.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201516.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201520.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201520.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201521.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201521.jpg)
@@ -39,8 +70,8 @@ http://www.yk.rim.or.jp/~reyhori/
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201420.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201420.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201421.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201421.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201422.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201422.jpg)
-
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb5/202001.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works5/202001.jpg)
+
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb4/201901.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works4/201901.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb4/201813.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works4/201813.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb4/201815.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works4/201815.jpg)
@@ -48,8 +79,8 @@ http://www.yk.rim.or.jp/~reyhori/
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb4/201818.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works4/201818.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200807.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200807.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200808.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200808.jpg)
-
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200514.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200514.jpg)
+
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200515.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200515.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200516.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200516.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200517.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200517.jpg)
@@ -134,8 +165,8 @@ http://www.yk.rim.or.jp/~reyhori/
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb5/201915.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works5/201915.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb4/201807.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works4/201807.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb4/201811.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works4/201811.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb4/201814.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works4/201814.jpg)
 
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb4/201814.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works4/201814.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb4/201816.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works4/201816.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb4/201820.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works4/201820.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb4/201821.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works4/201821.jpg)
@@ -143,8 +174,8 @@ http://www.yk.rim.or.jp/~reyhori/
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200912.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200912.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200913.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200913.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200914.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200914.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200915.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200915.jpg)
 
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200915.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200915.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200805.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200805.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200806.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200806.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200810.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200810.jpg)
@@ -152,8 +183,8 @@ http://www.yk.rim.or.jp/~reyhori/
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200610.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200610.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200611.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200611.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200612.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200612.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200617.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200617.jpg)
 
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200617.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200617.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200618.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200618.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200619.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200619.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200620.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200620.jpg)
@@ -161,51 +192,12 @@ http://www.yk.rim.or.jp/~reyhori/
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200622.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200622.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200623.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200623.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200409.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200409.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200410.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200410.jpg)
 
+[<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200410.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200410.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200411.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200411.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200413.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200413.jpg)
 [<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200414.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200414.jpg)
 
-### detector
-
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201138.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201138.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201139.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201139.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201146.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201146.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201149.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201149.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201150.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201150.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201151.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201151.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201152.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201152.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201153.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201153.jpg)
-
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201154.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201154.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201319.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201319.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201202.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201202.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201206.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201206.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201237.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201237.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201238.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201238.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201239.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201239.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201240.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201240.jpg)
-
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb2/201241.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works2/201241.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201703.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201703.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201705.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201705.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201725.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201725.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb4/201801.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works4/201801.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200613.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200613.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201711.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201711.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb3/201713.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/works3/201713.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200412.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200412.jpg)
-
-### all
-
-
-
-
-
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200614.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200614.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200615.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200615.jpg)
-[<img src="http://www.yk.rim.or.jp/~reyhori/thumb/200616.jpg" width="60" />](http://www.yk.rim.or.jp/~reyhori/reysworks/200616.jpg)
 
 
 
