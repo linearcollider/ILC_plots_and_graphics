@@ -1,5 +1,7 @@
 These is a collection of figures from chapter 10 "ILC Physics Measurements at 350, 500, and 1000 GeV" of
+
 A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622
+
 Some of the captions may be mangled due to imperfect .tex -> .mk conversion. Check the above paper for the definitive version.
 
 -----
