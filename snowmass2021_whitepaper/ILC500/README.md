@@ -1,5 +1,7 @@
+These is a collection of figures from chapter 10 "ILC Physics Measurements at 350, 500, and 1000 GeV" of
+A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021, arXiv:2203.07622
+Some of the captions may be mangled due to imperfect .tex -> .mk conversion. Check the above paper for the definitive version.
 
- 
 -----
 A simulated top quark threshold scan with a total integrated luminosity of 200 fb$^{-1}$.  The bands around the central cross section curve show the dependence of the cross section on the top quark mass and width, illustrating the sensitivity of the scan.  The error bars show  the statistical uncertainties, taking into account signal efficiencies and backgrounds.  From \cite{CLICdp:2018esa}.
  
