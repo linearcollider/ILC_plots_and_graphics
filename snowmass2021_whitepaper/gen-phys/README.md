@@ -1,4 +1,6 @@
+This is a collection of figures from Chapter 5 "General Aspects of the ILC Physics Environment" of "A. Aryshev et al., The International Linear Collider: Report to Snowmass 2021" https://arxiv.org/abs/2203.07622
 
+Some captions may be mangled due to imperfect .tex -> .mk conversion: check the above paper for the definitive version.
  
 -----
 Cross sections of the most important Standard Model processes in $\ee$ annihilation in the energy range of the ILC.  Initial state radiation is included, and cross section are plotted for reactions in which the annihilation retains $>90\%$ of the nominal CM energy.  The cross sections are shown for predominantly left-handed beam polarization ($-80\% /+30\%$ for $e^-/e^+$) (top) and for  predominantly right-handed beam polarization ($+80\% /-30\%$) (bottom).  It is instructive to compare the two plots, which have subtle and not-so-subtle differences.}
