@@ -54,3 +54,4 @@
 ![.C](figures/powerlumi_vs_logE.C)
 <img src="figures/powerlumi_vs_logE.png" width="200" />
 
+
