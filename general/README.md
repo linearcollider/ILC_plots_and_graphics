@@ -31,11 +31,14 @@
 ## Luminosity and power vs energy 
 (all by JennyListDESY according to references specified on the plots)
 - site power vs log(E):
+
+LCF version April 2025  
 ![.pdf](figures/all_power_vs_logE.pdf) 
 ![.eps](figures/all_power_vs_logE.eps) 
 ![.C](figures/all_power_vs_logE.C)
 <img src="figures/all_power_vs_logE.png" width="200" />
 
+ILC version January 2023
 ![.pdf](figures/power_vs_logE_withLHCandCERN.pdf) 
 ![.eps](figures/power_vs_logE_withLHCandCERN.eps) 
 ![.C](figures/power_vs_logE_withLHCandCERN.C)
