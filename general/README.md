@@ -35,6 +35,7 @@
 ![.eps](figures/all_power_vs_logE.eps) 
 ![.C](figures/all_power_vs_logE.C)
 <img src="figures/all_power_vs_logE.png" width="200" />
+
 ![.pdf](figures/power_vs_logE_withLHCandCERN.pdf) 
 ![.eps](figures/power_vs_logE_withLHCandCERN.eps) 
 ![.C](figures/power_vs_logE_withLHCandCERN.C)
