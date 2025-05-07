@@ -29,7 +29,8 @@
 
 
 ## Luminosity and power vs energy 
-(all by JennyListDESY according to references specified on the plots)
+all by JennyListDESY according to references specified on the plots
+links to .png shown as preview, for links to .eps, .pdf, .C use the small symbols 
 
 ### site power vs log(E):
 
@@ -54,7 +55,7 @@
 ![.C](figures/power_vs_logE_withLHCandCERN.C)
 <img src="figures/power_vs_logE_withLHCandCERN.png" width="200" />
 
-### luminosity vs log(E): Links to the
+### luminosity vs log(E): 
 
 - LCF version April 2025:
 
@@ -77,7 +78,7 @@
 ![.C](figures/lumi_vs_logE.C)
 <img src="figures/lumi_vs_logE.png" width="200" />
 
-### luminosity/power vs log(E): Links to the
+### luminosity/power vs log(E): 
 
 - LCF version April 2025:
 
@@ -100,7 +101,7 @@
 ![.C](figures/lumipower_vs_logE.C)
 <img src="figures/lumipower_vs_logE.png" width="200" />
 
-### power/luminosity vs log(E): Links to the
+### power/luminosity vs log(E): 
 
 - LCF version April 2025:
 
