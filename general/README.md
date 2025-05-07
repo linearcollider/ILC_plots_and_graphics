@@ -39,6 +39,13 @@ LCF version April 2025:
 ![.C](figures/all_power_vs_logE.C)
 <img src="figures/all_power_vs_logE.png" width="200" />
 
+version October 2024:
+
+![.pdf](figures/power_vs_logE_2410.pdf) 
+![.eps](figures/power_vs_logE_2410.eps) 
+![.C](figures/power_vs_logE_2410.C)
+<img src="figures/power_vs_logE_2410.png" width="200" />
+
 ILC version January 2023:
 
 ![.pdf](figures/power_vs_logE_withLHCandCERN.pdf) 
@@ -55,12 +62,19 @@ LCF version April 2025:
 ![.C](figures/all_lumi_vs_logE.C)
 <img src="figures/all_lumi_vs_logE.png" width="200" />
 
-ILC version January 2023:
+version January 2023:
 
 ![.pdf](figures/lumi_vs_logE.pdf)
 ![.eps](figures/lumi_vs_logE.eps)
 ![.C](figures/lumi_vs_logE.C)
 <img src="figures/lumi_vs_logE.png" width="200" />
+
+ILC version October 2024:
+
+![.pdf](figures/lumi_vs_logE_2410.pdf)
+![.eps](figures/lumi_vs_logE_2410.eps)
+![.C](figures/lumi_vs_logE_2410.C)
+<img src="figures/lumi_vs_logE_2410.png" width="200" />
 
 - luminosity/power vs log(E): Links to the
 
@@ -78,6 +92,13 @@ ILC version January 2023:
 ![.C](figures/lumipower_vs_logE.C)
 <img src="figures/lumipower_vs_logE.png" width="200" />
 
+version October 2024:
+
+![.pdf](figures/lumipower_vs_logE_2410.pdf)
+![.eps](figures/lumipower_vs_logE_2410.eps)
+![.C](figures/lumipower_vs_logE_2410.C)
+<img src="figures/lumipower_vs_logE_2410.png" width="200" />
+
 - power/luminosity vs log(E): Links to the
 
 LCF version April 2025:
@@ -86,6 +107,13 @@ LCF version April 2025:
 ![.eps](figures/all_powerlumi_vs_logE.eps) 
 ![.C](figures/all_powerlumi_vs_logE.C)
 <img src="figures/all_powerlumi_vs_logE.png" width="200" />
+
+version October 2024:
+
+![.pdf](figures/powerlumi_vs_logE_2410.pdf)
+![.eps](figures/powerlumi_vs_logE_2410.eps)
+![.C](figures/powerlumi_vs_logE_2410.C)
+<img src="figures/powerlumi_vs_logE_2410.png" width="200" />
 
 ILC version January 2023:
 
